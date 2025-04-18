@@ -1,0 +1,22 @@
+{
+    "name": "dpworks-ai-twilio",
+    "version": "1.0.0",
+    "description": "DPWorks-AI Assistant – Twilio Sandbox to Production version",
+    "main": "bot/twilioServer.js",
+    "scripts": {
+      "start": "node bot/twilioServer.js",
+      "dev": "nodemon bot/twilioServer.js"
+    },
+    "author": "Satyasai Ray",
+    "license": "MIT",
+    "dependencies": {
+      "dotenv": "^16.0.3",
+      "express": "^4.18.2",
+      "mongoose": "^7.2.2",
+      "twilio": "^4.15.0"
+    },
+    "devDependencies": {
+      "nodemon": "^2.0.22"
+    }
+  }
+  

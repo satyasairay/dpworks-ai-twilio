@@ -1,0 +1,4626 @@
+[
+  {
+    "en": "Achak",
+    "or": "ଆଚକ୍"
+  },
+  {
+    "en": "Adalpanka",
+    "or": "ଆଦଲ୍ପନ୍କ"
+  },
+  {
+    "en": "Adampur",
+    "or": "ଆଦମ୍ପୁର୍"
+  },
+  {
+    "en": "Adhuan",
+    "or": "ଆଧୁଅନ୍"
+  },
+  {
+    "en": "Adia",
+    "or": "ଆଦିଅ"
+  },
+  {
+    "en": "Ageibehera",
+    "or": "ଆଗେଇବେହେର"
+  },
+  {
+    "en": "Agiria",
+    "or": "ଆଗିରିଅ"
+  },
+  {
+    "en": "Aharpada",
+    "or": "ଆହର୍ପଦ"
+  },
+  {
+    "en": "Ajanagadia",
+    "or": "ଆଜନଗଦିଅ"
+  },
+  {
+    "en": "Ajmatpur",
+    "or": "ଆଜ୍ମତ୍ପୁର୍"
+  },
+  {
+    "en": "Ajodhya",
+    "or": "ଆଜୋଧ୍ଯ"
+  },
+  {
+    "en": "Akhuapada",
+    "or": "ଆଖୁଅପଦ"
+  },
+  {
+    "en": "Akulikana",
+    "or": "ଆକୁଲିକନ"
+  },
+  {
+    "en": "Alabaga",
+    "or": "ଆଲବଗ"
+  },
+  {
+    "en": "Alala",
+    "or": "ଆଲଲ"
+  },
+  {
+    "en": "Alamanga",
+    "or": "ଆଲମନ୍ଗ"
+  },
+  {
+    "en": "Alauti",
+    "or": "ଆଲୌତି"
+  },
+  {
+    "en": "Aliha",
+    "or": "ଆଲିହ"
+  },
+  {
+    "en": "Alinagar",
+    "or": "ଆଲିନଗର୍"
+  },
+  {
+    "en": "Amajia",
+    "or": "ଆମଜିଅ"
+  },
+  {
+    "en": "Amargadia",
+    "or": "ଆମର୍ଗଦିଅ"
+  },
+  {
+    "en": "Amarnagar",
+    "or": "ଆମର୍ନଗର୍"
+  },
+  {
+    "en": "Amarpur",
+    "or": "ଆମର୍ପୁର୍"
+  },
+  {
+    "en": "Ambiligan",
+    "or": "ଆମ୍ବିଲିଗନ୍"
+  },
+  {
+    "en": "Ambola",
+    "or": "ଆମ୍ବୋଲ"
+  },
+  {
+    "en": "Ambroli",
+    "or": "ଆମ୍ବ୍ରୋଲି"
+  },
+  {
+    "en": "Ampor",
+    "or": "ଆମ୍ପୋର୍"
+  },
+  {
+    "en": "Amrutapur",
+    "or": "ଆମ୍ରୁତପୁର୍"
+  },
+  {
+    "en": "Anadhua",
+    "or": "ଆନଧୁଅ"
+  },
+  {
+    "en": "Anaharpur",
+    "or": "ଆନହର୍ପୁର୍"
+  },
+  {
+    "en": "Anandapur",
+    "or": "ଆନନ୍ଦପୁର୍"
+  },
+  {
+    "en": "Anantapur",
+    "or": "ଆନନ୍ତପୁର୍"
+  },
+  {
+    "en": "Anatira",
+    "or": "ଆନତିର"
+  },
+  {
+    "en": "Andarei",
+    "or": "ଆନ୍ଦରେଇ"
+  },
+  {
+    "en": "Andheipali",
+    "or": "ଆନ୍ଧେଇପଲି"
+  },
+  {
+    "en": "Andhia",
+    "or": "ଆନ୍ଧିଅ"
+  },
+  {
+    "en": "Andiapat",
+    "or": "ଆନ୍ଦିଅପତ୍"
+  },
+  {
+    "en": "Andola",
+    "or": "ଆନ୍ଦୋଲ"
+  },
+  {
+    "en": "Angargadia",
+    "or": "ଆନ୍ଗର୍ଗଦିଅ"
+  },
+  {
+    "en": "Anijo",
+    "or": "ଆନିଜୋ"
+  },
+  {
+    "en": "Ankapada",
+    "or": "ଆନ୍କପଦ"
+  },
+  {
+    "en": "Anugrahapur",
+    "or": "ଆନୁଗ୍ରହପୁର୍"
+  },
+  {
+    "en": "Apanda",
+    "or": "ଆପନ୍ଦ"
+  },
+  {
+    "en": "Apartipur",
+    "or": "ଆପର୍ତିପୁର୍"
+  },
+  {
+    "en": "Aptirasadangi",
+    "or": "ଆପ୍ତିରସଦନ୍ଗି"
+  },
+  {
+    "en": "Aradi",
+    "or": "ଆରଦି"
+  },
+  {
+    "en": "Arandua",
+    "or": "ଆରନ୍ଦୁଅ"
+  },
+  {
+    "en": "Aranji",
+    "or": "ଆରନ୍ଜି"
+  },
+  {
+    "en": "Arasa",
+    "or": "ଆରସ"
+  },
+  {
+    "en": "Areikana",
+    "or": "ଆରେଇକନ"
+  },
+  {
+    "en": "Arjunbindha",
+    "or": "ଆର୍ଜୁନ୍ବିନ୍ଧ"
+  },
+  {
+    "en": "Arjunpur",
+    "or": "ଆର୍ଜୁନ୍ପୁର୍"
+  },
+  {
+    "en": "Arnapal",
+    "or": "ଆର୍ନପଲ୍"
+  },
+  {
+    "en": "Artung",
+    "or": "ଆର୍ତୁନ୍ଗ୍"
+  },
+  {
+    "en": "Aruha",
+    "or": "ଆରୁହ"
+  },
+  {
+    "en": "Aruhan",
+    "or": "ଆରୁହନ୍"
+  },
+  {
+    "en": "Astak",
+    "or": "ଆସ୍ତକ୍"
+  },
+  {
+    "en": "Asura",
+    "or": "ଆସୁର"
+  },
+  {
+    "en": "Asurali",
+    "or": "ଆସୁରଲି"
+  },
+  {
+    "en": "Atto",
+    "or": "ଆତ୍ତୋ"
+  },
+  {
+    "en": "Ayatapur",
+    "or": "ଆଯତପୁର୍"
+  },
+  {
+    "en": "Babalpur",
+    "or": "Bଅବଲ୍ପୁର୍"
+  },
+  {
+    "en": "Baburigan",
+    "or": "Bଅବୁରିଗନ୍"
+  },
+  {
+    "en": "Bachhada",
+    "or": "Bଅଛଦ"
+  },
+  {
+    "en": "Bachhipur",
+    "or": "Bଅଛିପୁର୍"
+  },
+  {
+    "en": "Badabanasta",
+    "or": "Bଅଦବନସ୍ତ"
+  },
+  {
+    "en": "Badabargadia",
+    "or": "Bଅଦବର୍ଗଦିଅ"
+  },
+  {
+    "en": "Badachandrabhanupur",
+    "or": "Bଅଦଚନ୍ଦ୍ରଭନୁପୁର୍"
+  },
+  {
+    "en": "Badagallo",
+    "or": "Bଅଦଗଲ୍ଲୋ"
+  },
+  {
+    "en": "Badahabelisahi",
+    "or": "Bଅଦହବେଲିସହି"
+  },
+  {
+    "en": "Badaharipur",
+    "or": "Bଅଦହରିପୁର୍"
+  },
+  {
+    "en": "Badahattrilochanpur",
+    "or": "Bଅଦହତ୍ତ୍ରିଲୋଚନ୍ପୁର୍"
+  },
+  {
+    "en": "Badaitagotha",
+    "or": "Bଅଦୈତଗୋଥ"
+  },
+  {
+    "en": "Badakantapada",
+    "or": "Bଅଦକନ୍ତପଦ"
+  },
+  {
+    "en": "Badakolipadi",
+    "or": "Bଅଦକୋଲିପଦି"
+  },
+  {
+    "en": "Badamahisigotha",
+    "or": "Bଅଦମହିସିଗୋଥ"
+  },
+  {
+    "en": "Badanahunipal",
+    "or": "Bଅଦନହୁନିପଲ୍"
+  },
+  {
+    "en": "Badanapanga",
+    "or": "Bଅଦନପନ୍ଗ"
+  },
+  {
+    "en": "Badaostia",
+    "or": "Bଅଦଓସ୍ତିଅ"
+  },
+  {
+    "en": "Badapimpala",
+    "or": "Bଅଦପିମ୍ପଲ"
+  },
+  {
+    "en": "Badarampur",
+    "or": "Bଅଦରମ୍ପୁର୍"
+  },
+  {
+    "en": "Badarupa",
+    "or": "Bଅଦରୁପ"
+  },
+  {
+    "en": "Badasamukavedi",
+    "or": "Bଅଦସମୁକଵେଦି"
+  },
+  {
+    "en": "Badasandado",
+    "or": "Bଅଦସନ୍ଦଦୋ"
+  },
+  {
+    "en": "Badasasan",
+    "or": "Bଅଦସସନ୍"
+  },
+  {
+    "en": "Badasingpur",
+    "or": "Bଅଦସିନ୍ଗ୍ପୁର୍"
+  },
+  {
+    "en": "Badatilanchi",
+    "or": "Bଅଦତିଲନ୍ଚି"
+  },
+  {
+    "en": "Badbarchhikayan",
+    "or": "Bଅଦ୍ବର୍ଛିକଯନ୍"
+  },
+  {
+    "en": "Bagadakashipur",
+    "or": "Bଅଗଦକଶିପୁର୍"
+  },
+  {
+    "en": "Bagamara",
+    "or": "Bଅଗମର"
+  },
+  {
+    "en": "Bagdabinayakpur",
+    "or": "Bଅଗ୍ଦବିନଯକ୍ପୁର୍"
+  },
+  {
+    "en": "Baghakolha",
+    "or": "Bଅଘକୋଲ୍ହ"
+  },
+  {
+    "en": "Baghanata",
+    "or": "Bଅଘନତ"
+  },
+  {
+    "en": "Baghmara",
+    "or": "Bଅଘ୍ମର"
+  },
+  {
+    "en": "Baghuari",
+    "or": "Bଅଘୁଅରି"
+  },
+  {
+    "en": "Bahabalpur",
+    "or": "Bଅହବଲ୍ପୁର୍"
+  },
+  {
+    "en": "Bahadalnagar",
+    "or": "Bଅହଦଲ୍ନଗର୍"
+  },
+  {
+    "en": "Bahadalpur",
+    "or": "Bଅହଦଲ୍ପୁର୍"
+  },
+  {
+    "en": "Baharpal",
+    "or": "Bଅହର୍ପଲ୍"
+  },
+  {
+    "en": "Bahu",
+    "or": "Bଅହୁ"
+  },
+  {
+    "en": "Bahudarada",
+    "or": "Bଅହୁଦରଦ"
+  },
+  {
+    "en": "Bahupokhari",
+    "or": "Bଅହୁପୋଖରି"
+  },
+  {
+    "en": "Baibal",
+    "or": "Bଐବଲ୍"
+  },
+  {
+    "en": "Baigadia",
+    "or": "Bଐଗଦିଅ"
+  },
+  {
+    "en": "Baikunthapur",
+    "or": "Bଐକୁନ୍ଥପୁର୍"
+  },
+  {
+    "en": "Baikunthi",
+    "or": "Bଐକୁନ୍ଥି"
+  },
+  {
+    "en": "Baincha",
+    "or": "Bଐନ୍ଚ"
+  },
+  {
+    "en": "Baipur",
+    "or": "Bଐପୁର୍"
+  },
+  {
+    "en": "Bajarapur",
+    "or": "Bଅଜରପୁର୍"
+  },
+  {
+    "en": "Balabhadraprasad",
+    "or": "Bଅଲଭଦ୍ରପ୍ରସଦ୍"
+  },
+  {
+    "en": "Balabhadrapur",
+    "or": "Bଅଲଭଦ୍ରପୁର୍"
+  },
+  {
+    "en": "Balabhadrapursasan",
+    "or": "Bଅଲଭଦ୍ରପୁର୍ସସନ୍"
+  },
+  {
+    "en": "Balajitpada",
+    "or": "Bଅଲଜିତ୍ପଦ"
+  },
+  {
+    "en": "Balanta",
+    "or": "Bଅଲନ୍ତ"
+  },
+  {
+    "en": "Balapur",
+    "or": "Bଅଲପୁର୍"
+  },
+  {
+    "en": "Balapurkhasmahal",
+    "or": "Bଅଲପୁର୍ଖସ୍ମହଲ୍"
+  },
+  {
+    "en": "Balarampur",
+    "or": "Bଅଲରମ୍ପୁର୍"
+  },
+  {
+    "en": "Balasahi",
+    "or": "Bଅଲସହି"
+  },
+  {
+    "en": "Baliapal",
+    "or": "Bଅଲିଅପଲ୍"
+  },
+  {
+    "en": "Baliarpur",
+    "or": "Bଅଲିଅର୍ପୁର୍"
+  },
+  {
+    "en": "Balichaturi",
+    "or": "Bଅଲିଚତୁରି"
+  },
+  {
+    "en": "Balidandi",
+    "or": "Bଅଲିଦନ୍ଦି"
+  },
+  {
+    "en": "Baligadia",
+    "or": "Bଅଲିଗଦିଅ"
+  },
+  {
+    "en": "Baligan",
+    "or": "Bଅଲିଗନ୍"
+  },
+  {
+    "en": "Balighai",
+    "or": "Bଅଲିଘୈ"
+  },
+  {
+    "en": "Balikana",
+    "or": "Bଅଲିକନ"
+  },
+  {
+    "en": "Balikuri",
+    "or": "Bଅଲିକୁରି"
+  },
+  {
+    "en": "Balimed",
+    "or": "Bଅଲିମେଦ୍"
+  },
+  {
+    "en": "Balimunda",
+    "or": "Bଅଲିମୁନ୍ଦ"
+  },
+  {
+    "en": "Balipada",
+    "or": "Bଅଲିପଦ"
+  },
+  {
+    "en": "Balipatana",
+    "or": "Bଅଲିପତନ"
+  },
+  {
+    "en": "Balipokhari",
+    "or": "Bଅଲିପୋଖରି"
+  },
+  {
+    "en": "Balipur",
+    "or": "Bଅଲିପୁର୍"
+  },
+  {
+    "en": "Balisahi",
+    "or": "Bଅଲିସହି"
+  },
+  {
+    "en": "Balo",
+    "or": "Bଅଲୋ"
+  },
+  {
+    "en": "Bamanbindha",
+    "or": "Bଅମନ୍ବିନ୍ଧ"
+  },
+  {
+    "en": "Bamkura",
+    "or": "Bଅମ୍କୁର"
+  },
+  {
+    "en": "Banapinjara",
+    "or": "Bଅନପିନ୍ଜର"
+  },
+  {
+    "en": "Banapur",
+    "or": "Bଅନପୁର୍"
+  },
+  {
+    "en": "Banchhanidhipur",
+    "or": "Bଅନ୍ଛନିଧିପୁର୍"
+  },
+  {
+    "en": "Bandalo",
+    "or": "Bଅନ୍ଦଲୋ"
+  },
+  {
+    "en": "Bandhatia",
+    "or": "Bଅନ୍ଧତିଅ"
+  },
+  {
+    "en": "Bandhgan",
+    "or": "Bଅନ୍ଧ୍ଗନ୍"
+  },
+  {
+    "en": "Bandiarisahi",
+    "or": "Bଅନ୍ଦିଅରିସହି"
+  },
+  {
+    "en": "Bangarpadi",
+    "or": "Bଅନ୍ଗର୍ପଦି"
+  },
+  {
+    "en": "Bania",
+    "or": "Bଅନିଅ"
+  },
+  {
+    "en": "Banian",
+    "or": "Bଅନିଅନ୍"
+  },
+  {
+    "en": "Banipadi",
+    "or": "Bଅନିପଦି"
+  },
+  {
+    "en": "Bankamuhan",
+    "or": "Bଅନ୍କମୁହନ୍"
+  },
+  {
+    "en": "Banktira",
+    "or": "Bଅନ୍କ୍ତିର"
+  },
+  {
+    "en": "Bansada",
+    "or": "Bଅନ୍ସଦ"
+  },
+  {
+    "en": "Bansar",
+    "or": "Bଅନ୍ସର୍"
+  },
+  {
+    "en": "Bant",
+    "or": "Bଅନ୍ତ୍"
+  },
+  {
+    "en": "Bantala",
+    "or": "Bଅନ୍ତଲ"
+  },
+  {
+    "en": "Bantia",
+    "or": "Bଅନ୍ତିଅ"
+  },
+  {
+    "en": "Banuasahi",
+    "or": "Bଅନୁଅସହି"
+  },
+  {
+    "en": "Bara Anandapur",
+    "or": "Bଅର ଆନନ୍ଦପୁର୍"
+  },
+  {
+    "en": "Barabatia",
+    "or": "Bଅରବତିଅ"
+  },
+  {
+    "en": "Barada",
+    "or": "Bଅରଦ"
+  },
+  {
+    "en": "Baradadihi",
+    "or": "Bଅରଦଦିହି"
+  },
+  {
+    "en": "Baradharia",
+    "or": "Bଅରଧରିଅ"
+  },
+  {
+    "en": "Barahanuapada",
+    "or": "Bଅରହନୁଅପଦ"
+  },
+  {
+    "en": "Barakana",
+    "or": "Bଅରକନ"
+  },
+  {
+    "en": "Barakolha",
+    "or": "Bଅରକୋଲ୍ହ"
+  },
+  {
+    "en": "Barandua",
+    "or": "Bଅରନ୍ଦୁଅ"
+  },
+  {
+    "en": "Baranduasamilsuan",
+    "or": "Bଅରନ୍ଦୁଅସମିଲ୍ସୁଅନ୍"
+  },
+  {
+    "en": "Baranga",
+    "or": "Bଅରନ୍ଗ"
+  },
+  {
+    "en": "Barapada",
+    "or": "Bଅରପଦ"
+  },
+  {
+    "en": "Barapadaratagadia",
+    "or": "Bଅରପଦରତଗଦିଅ"
+  },
+  {
+    "en": "Barapadi",
+    "or": "Bଅରପଦି"
+  },
+  {
+    "en": "Bargara",
+    "or": "Bଅର୍ଗର"
+  },
+  {
+    "en": "Barikbindha",
+    "or": "Bଅରିକ୍ବିନ୍ଧ"
+  },
+  {
+    "en": "Barikpur",
+    "or": "Bଅରିକ୍ପୁର୍"
+  },
+  {
+    "en": "Baro",
+    "or": "Bଅରୋ"
+  },
+  {
+    "en": "Barol",
+    "or": "Bଅରୋଲ୍"
+  },
+  {
+    "en": "Barsar",
+    "or": "Bଅର୍ସର୍"
+  },
+  {
+    "en": "Barunei",
+    "or": "Bଅରୁନେଇ"
+  },
+  {
+    "en": "Barungadia",
+    "or": "Bଅରୁନ୍ଗଦିଅ"
+  },
+  {
+    "en": "Basalpur",
+    "or": "Bଅସଲ୍ପୁର୍"
+  },
+  {
+    "en": "Basantia",
+    "or": "Bଅସନ୍ତିଅ"
+  },
+  {
+    "en": "Basudebpur",
+    "or": "Bଅସୁଦେବ୍ପୁର୍"
+  },
+  {
+    "en": "Batitanki",
+    "or": "Bଅତିତନ୍କି"
+  },
+  {
+    "en": "Batol",
+    "or": "Bଅତୋଲ୍"
+  },
+  {
+    "en": "Baudpur",
+    "or": "Bଔଦ୍ପୁର୍"
+  },
+  {
+    "en": "Baulajoda",
+    "or": "Bଔଲଜୋଦ"
+  },
+  {
+    "en": "Baulapur",
+    "or": "Bଔଲପୁର୍"
+  },
+  {
+    "en": "Bayabanapur",
+    "or": "Bଅଯବନପୁର୍"
+  },
+  {
+    "en": "Bayalisbindha",
+    "or": "Bଅଯଲିସ୍ବିନ୍ଧ"
+  },
+  {
+    "en": "Bayangdihi",
+    "or": "Bଅଯନ୍ଗ୍ଦିହି"
+  },
+  {
+    "en": "Bedpur",
+    "or": "Bଏଦ୍ପୁର୍"
+  },
+  {
+    "en": "Begana",
+    "or": "Bଏଗନ"
+  },
+  {
+    "en": "Begunia",
+    "or": "Bଏଗୁନିଅ"
+  },
+  {
+    "en": "Belada",
+    "or": "Bଏଲଦ"
+  },
+  {
+    "en": "Belagadia",
+    "or": "Bଏଲଗଦିଅ"
+  },
+  {
+    "en": "Belasaunlia",
+    "or": "Bଏଲସୌନ୍ଲିଅ"
+  },
+  {
+    "en": "Benichua",
+    "or": "Bଏନିଚୁଅ"
+  },
+  {
+    "en": "Benipur",
+    "or": "Bଏନିପୁର୍"
+  },
+  {
+    "en": "Bental",
+    "or": "Bଏନ୍ତଲ୍"
+  },
+  {
+    "en": "Bentalpur",
+    "or": "Bଏନ୍ତଲ୍ପୁର୍"
+  },
+  {
+    "en": "Berhampur",
+    "or": "Bଏର୍ହମ୍ପୁର୍"
+  },
+  {
+    "en": "Betra",
+    "or": "Bଏତ୍ର"
+  },
+  {
+    "en": "Bhabanibindha",
+    "or": "Bହବନିବିନ୍ଧ"
+  },
+  {
+    "en": "Bhadrak Rural (p)",
+    "or": "Bହଦ୍ରକ୍ ର଼ୁରଲ୍ (ପ୍)"
+  },
+  {
+    "en": "Bhagabanpur",
+    "or": "Bହଗବନ୍ପୁର୍"
+  },
+  {
+    "en": "Bhagada",
+    "or": "Bହଗଦ"
+  },
+  {
+    "en": "Bhagapur",
+    "or": "Bହଗପୁର୍"
+  },
+  {
+    "en": "Bhagaram",
+    "or": "Bହଗରମ୍"
+  },
+  {
+    "en": "Bhaktibrahmapur",
+    "or": "Bହକ୍ତିବ୍ରହ୍ମପୁର୍"
+  },
+  {
+    "en": "Bhandargadia",
+    "or": "Bହନ୍ଦର୍ଗଦିଅ"
+  },
+  {
+    "en": "Bhandari Pokhari",
+    "or": "Bହନ୍ଦରି Pଓଖରି"
+  },
+  {
+    "en": "Bhandari Pokhari (Dakhinbad)",
+    "or": "Bହନ୍ଦରି Pଓଖରି (ଡଖିନ୍ବଦ୍)"
+  },
+  {
+    "en": "Bhanjasahi",
+    "or": "Bହନ୍ଜସହି"
+  },
+  {
+    "en": "Bhanupur",
+    "or": "Bହନୁପୁର୍"
+  },
+  {
+    "en": "Bharsinghpur",
+    "or": "Bହର୍ସିନ୍ଘ୍ପୁର୍"
+  },
+  {
+    "en": "Bhasahi",
+    "or": "Bହସହି"
+  },
+  {
+    "en": "Bhatana",
+    "or": "Bହତନ"
+  },
+  {
+    "en": "Bhatapada",
+    "or": "Bହତପଦ"
+  },
+  {
+    "en": "Bhatapada ",
+    "or": "Bହତପଦ "
+  },
+  {
+    "en": "Bhatapara",
+    "or": "Bହତପର"
+  },
+  {
+    "en": "Bhatasahi",
+    "or": "Bହତସହି"
+  },
+  {
+    "en": "Bhattira",
+    "or": "Bହତ୍ତିର"
+  },
+  {
+    "en": "Bhejiaria",
+    "or": "Bହେଜିଅରିଅ"
+  },
+  {
+    "en": "Bhimpur",
+    "or": "Bହିମ୍ପୁର୍"
+  },
+  {
+    "en": "Bhuinbruti",
+    "or": "Bହୁଇନ୍ବ୍ରୁତି"
+  },
+  {
+    "en": "Bhuinpur",
+    "or": "Bହୁଇନ୍ପୁର୍"
+  },
+  {
+    "en": "Bhuisahi",
+    "or": "Bହୁଇସହି"
+  },
+  {
+    "en": "Bhutia",
+    "or": "Bହୁତିଅ"
+  },
+  {
+    "en": "Bibhutipur",
+    "or": "Bଇଭୁତିପୁର୍"
+  },
+  {
+    "en": "Bideipur",
+    "or": "Bଇଦେଇପୁର୍"
+  },
+  {
+    "en": "Bidyadharpur",
+    "or": "Bଇଦ୍ଯଧର୍ପୁର୍"
+  },
+  {
+    "en": "Bidyutprava",
+    "or": "Bଇଦ୍ଯୁତ୍ପ୍ରଵ"
+  },
+  {
+    "en": "Bijayanagar",
+    "or": "Bଇଜଯନଗର୍"
+  },
+  {
+    "en": "Bijaypatana",
+    "or": "Bଇଜଯ୍ପତନ"
+  },
+  {
+    "en": "Bije Gangadharpur",
+    "or": "Bଇଜେ ଗ଼ନ୍ଗଧର୍ପୁର୍"
+  },
+  {
+    "en": "Bijipur",
+    "or": "Bଇଜିପୁର୍"
+  },
+  {
+    "en": "Bilabari",
+    "or": "Bଇଲବରି"
+  },
+  {
+    "en": "Bilana",
+    "or": "Bଇଲନ"
+  },
+  {
+    "en": "Bimbalabar",
+    "or": "Bଇମ୍ବଲବର୍"
+  },
+  {
+    "en": "Binadanda",
+    "or": "Bଇନଦନ୍ଦ"
+  },
+  {
+    "en": "Binayakpur",
+    "or": "Bଇନଯକ୍ପୁର୍"
+  },
+  {
+    "en": "Bindhana",
+    "or": "Bଇନ୍ଧନ"
+  },
+  {
+    "en": "Binjhamohanpur",
+    "or": "Bଇନ୍ଝମୋହନ୍ପୁର୍"
+  },
+  {
+    "en": "Birabarapur",
+    "or": "Bଇରବରପୁର୍"
+  },
+  {
+    "en": "Birabhadra",
+    "or": "Bଇରଭଦ୍ର"
+  },
+  {
+    "en": "Biras",
+    "or": "Bଇରସ୍"
+  },
+  {
+    "en": "Biriadia",
+    "or": "Bଇରିଅଦିଅ"
+  },
+  {
+    "en": "Biridi",
+    "or": "Bଇରିଦି"
+  },
+  {
+    "en": "Biridihi",
+    "or": "Bଇରିଦିହି"
+  },
+  {
+    "en": "Biripada",
+    "or": "Bଇରିପଦ"
+  },
+  {
+    "en": "Biroli",
+    "or": "Bଇରୋଲି"
+  },
+  {
+    "en": "Biruan",
+    "or": "Bଇରୁଅନ୍"
+  },
+  {
+    "en": "Bisalkana",
+    "or": "Bଇସଲ୍କନ"
+  },
+  {
+    "en": "Bishnubindha",
+    "or": "Bଇଶ୍ନୁବିନ୍ଧ"
+  },
+  {
+    "en": "Bishnupur",
+    "or": "Bଇଶ୍ନୁପୁର୍"
+  },
+  {
+    "en": "Bishnupurbindha",
+    "or": "Bଇଶ୍ନୁପୁର୍ବିନ୍ଧ"
+  },
+  {
+    "en": "Bishrampur",
+    "or": "Bଇଶ୍ରମ୍ପୁର୍"
+  },
+  {
+    "en": "Bisolsasan",
+    "or": "Bଇସୋଲ୍ସସନ୍"
+  },
+  {
+    "en": "Biswali",
+    "or": "Bଇସ୍ଵଲି"
+  },
+  {
+    "en": "Biswanathpur",
+    "or": "Bଇସ୍ଵନଥ୍ପୁର୍"
+  },
+  {
+    "en": "Bodak",
+    "or": "Bଓଦକ୍"
+  },
+  {
+    "en": "Bodakmuajib",
+    "or": "Bଓଦକ୍ମୁଅଜିବ୍"
+  },
+  {
+    "en": "Bodakpatana",
+    "or": "Bଓଦକ୍ପତନ"
+  },
+  {
+    "en": "Bodaksasan",
+    "or": "Bଓଦକ୍ସସନ୍"
+  },
+  {
+    "en": "Bodhapur",
+    "or": "Bଓଧପୁର୍"
+  },
+  {
+    "en": "Bodhigadia",
+    "or": "Bଓଧିଗଦିଅ"
+  },
+  {
+    "en": "Brahmangan",
+    "or": "Bରହ୍ମନ୍ଗନ୍"
+  },
+  {
+    "en": "Brahmapur",
+    "or": "Bରହ୍ମପୁର୍"
+  },
+  {
+    "en": "Brahmatikiri",
+    "or": "Bରହ୍ମତିକିରି"
+  },
+  {
+    "en": "Brajanandapur",
+    "or": "Bରଜନନ୍ଦପୁର୍"
+  },
+  {
+    "en": "Budang",
+    "or": "Bଉଦନ୍ଗ୍"
+  },
+  {
+    "en": "Burujal",
+    "or": "Bଉରୁଜଲ୍"
+  },
+  {
+    "en": "Chabispada",
+    "or": "ଛବିସ୍ପଦ"
+  },
+  {
+    "en": "Chadheya",
+    "or": "ଛଧେଯ"
+  },
+  {
+    "en": "Chainpur",
+    "or": "ଛୈନ୍ପୁର୍"
+  },
+  {
+    "en": "Chakarapadhi",
+    "or": "ଛକରପଧି"
+  },
+  {
+    "en": "Chakaspur",
+    "or": "ଛକସ୍ପୁର୍"
+  },
+  {
+    "en": "Chakasridharpur",
+    "or": "ଛକସ୍ରିଧର୍ପୁର୍"
+  },
+  {
+    "en": "Chakbental",
+    "or": "ଛକ୍ବେନ୍ତଲ୍"
+  },
+  {
+    "en": "Chakchinamali",
+    "or": "ଛକ୍ଚିନମଲି"
+  },
+  {
+    "en": "Chakuasahi",
+    "or": "ଛକୁଅସହି"
+  },
+  {
+    "en": "Chalunia",
+    "or": "ଛଲୁନିଅ"
+  },
+  {
+    "en": "Chandabali",
+    "or": "ଛନ୍ଦବଲି"
+  },
+  {
+    "en": "Chandakuda",
+    "or": "ଛନ୍ଦକୁଦ"
+  },
+  {
+    "en": "Chandanpur",
+    "or": "ଛନ୍ଦନ୍ପୁର୍"
+  },
+  {
+    "en": "Chandia",
+    "or": "ଛନ୍ଦିଅ"
+  },
+  {
+    "en": "Chandigan",
+    "or": "ଛନ୍ଦିଗନ୍"
+  },
+  {
+    "en": "Chandipur",
+    "or": "ଛନ୍ଦିପୁର୍"
+  },
+  {
+    "en": "Chandrabhanupur",
+    "or": "ଛନ୍ଦ୍ରଭନୁପୁର୍"
+  },
+  {
+    "en": "Chandrakatbindha",
+    "or": "ଛନ୍ଦ୍ରକତ୍ବିନ୍ଧ"
+  },
+  {
+    "en": "Chandrasekharpur",
+    "or": "ଛନ୍ଦ୍ରସେଖର୍ପୁର୍"
+  },
+  {
+    "en": "Charadia",
+    "or": "ଛରଦିଅ"
+  },
+  {
+    "en": "Charampa",
+    "or": "ଛରମ୍ପ"
+  },
+  {
+    "en": "Charibatia",
+    "or": "ଛରିବତିଅ"
+  },
+  {
+    "en": "Charigan",
+    "or": "ଛରିଗନ୍"
+  },
+  {
+    "en": "Charigharia",
+    "or": "ଛରିଘରିଅ"
+  },
+  {
+    "en": "Charipokharia",
+    "or": "ଛରିପୋଖରିଅ"
+  },
+  {
+    "en": "Charitaraf",
+    "or": "ଛରିତରଫ଼୍"
+  },
+  {
+    "en": "Charitikira",
+    "or": "ଛରିତିକିର"
+  },
+  {
+    "en": "Chasakhand",
+    "or": "ଛସଖନ୍ଦ୍"
+  },
+  {
+    "en": "Chashakhanda",
+    "or": "ଛଶଖନ୍ଦ"
+  },
+  {
+    "en": "Chatrubhujpur",
+    "or": "ଛତ୍ରୁଭୁଜ୍ପୁର୍"
+  },
+  {
+    "en": "Chhanchina",
+    "or": "ଛ୍ହନ୍ଚିନ"
+  },
+  {
+    "en": "Chhatis samil Nandor",
+    "or": "ଛ୍ହତିସ୍ ସମିଲ୍ ଣନ୍ଦୋର୍"
+  },
+  {
+    "en": "Chhatisbedapur",
+    "or": "ଛ୍ହତିସ୍ବେଦପୁର୍"
+  },
+  {
+    "en": "Chhatisbirajapur",
+    "or": "ଛ୍ହତିସ୍ବିରଜପୁର୍"
+  },
+  {
+    "en": "Chhatrapada",
+    "or": "ଛ୍ହତ୍ରପଦ"
+  },
+  {
+    "en": "Chhatrapur",
+    "or": "ଛ୍ହତ୍ରପୁର୍"
+  },
+  {
+    "en": "Chhatria",
+    "or": "ଛ୍ହତ୍ରିଅ"
+  },
+  {
+    "en": "Chhayalsing",
+    "or": "ଛ୍ହଯଲ୍ସିନ୍ଗ୍"
+  },
+  {
+    "en": "Chhedak",
+    "or": "ଛ୍ହେଦକ୍"
+  },
+  {
+    "en": "Chhenakhia",
+    "or": "ଛ୍ହେନଖିଅ"
+  },
+  {
+    "en": "Chianipahi",
+    "or": "ଛିଅନିପହି"
+  },
+  {
+    "en": "Chinamali",
+    "or": "ଛିନମଲି"
+  },
+  {
+    "en": "Chirol",
+    "or": "ଛିରୋଲ୍"
+  },
+  {
+    "en": "Chudamani",
+    "or": "ଛୁଦମନି"
+  },
+  {
+    "en": "Chunida",
+    "or": "ଛୁନିଦ"
+  },
+  {
+    "en": "Churangpur",
+    "or": "ଛୁରନ୍ଗ୍ପୁର୍"
+  },
+  {
+    "en": "Coconat Island",
+    "or": "ଛୋଚୋନତ୍ ଈସ୍ଲନ୍ଦ୍"
+  },
+  {
+    "en": "Dadeswar",
+    "or": "ଡଦେସ୍ଵର୍"
+  },
+  {
+    "en": "Dadhibamanpur",
+    "or": "ଡଧିବମନ୍ପୁର୍"
+  },
+  {
+    "en": "Dahapania",
+    "or": "ଡହପନିଅ"
+  },
+  {
+    "en": "Daipur",
+    "or": "ଡୈପୁର୍"
+  },
+  {
+    "en": "Daipurnahabari",
+    "or": "ଡୈପୁର୍ନହବରି"
+  },
+  {
+    "en": "Daising",
+    "or": "ଡୈସିନ୍ଗ୍"
+  },
+  {
+    "en": "Dakshinadhamara",
+    "or": "ଡକ୍ଶିନଧମର"
+  },
+  {
+    "en": "Dakshinakorua",
+    "or": "ଡକ୍ଶିନକୋରୁଅ"
+  },
+  {
+    "en": "Dalanga",
+    "or": "ଡଲନ୍ଗ"
+  },
+  {
+    "en": "Damodarpur",
+    "or": "ଡମୋଦର୍ପୁର୍"
+  },
+  {
+    "en": "Dando",
+    "or": "ଡନ୍ଦୋ"
+  },
+  {
+    "en": "Dandobatitanki",
+    "or": "ଡନ୍ଦୋବତିତନ୍କି"
+  },
+  {
+    "en": "Dappa",
+    "or": "ଡପ୍ପ"
+  },
+  {
+    "en": "Darapur",
+    "or": "ଡରପୁର୍"
+  },
+  {
+    "en": "Daulatapur",
+    "or": "ଡୌଲତପୁର୍"
+  },
+  {
+    "en": "Debatagadia",
+    "or": "ଡେବତଗଦିଅ"
+  },
+  {
+    "en": "Deobil",
+    "or": "ଡେଓବିଲ୍"
+  },
+  {
+    "en": "Deopada",
+    "or": "ଡେଓପଦ"
+  },
+  {
+    "en": "Deula",
+    "or": "ଡେଉଲ"
+  },
+  {
+    "en": "Deuladihi",
+    "or": "ଡେଉଲଦିହି"
+  },
+  {
+    "en": "Deulapadi",
+    "or": "ଡେଉଲପଦି"
+  },
+  {
+    "en": "Deulapal",
+    "or": "ଡେଉଲପଲ୍"
+  },
+  {
+    "en": "Deuligan",
+    "or": "ଡେଉଲିଗନ୍"
+  },
+  {
+    "en": "Dhamanagar",
+    "or": "ଢମନଗର୍"
+  },
+  {
+    "en": "Dhanakhania",
+    "or": "ଢନଖନିଅ"
+  },
+  {
+    "en": "Dhanakuta",
+    "or": "ଢନକୁତ"
+  },
+  {
+    "en": "Dhanghar",
+    "or": "ଢନ୍ଘର୍"
+  },
+  {
+    "en": "Dhaniojha",
+    "or": "ଢନିଓଝ"
+  },
+  {
+    "en": "Dharamagatpur",
+    "or": "ଢରମଗତ୍ପୁର୍"
+  },
+  {
+    "en": "Dharmasaranabindha",
+    "or": "ଢର୍ମସରନବିନ୍ଧ"
+  },
+  {
+    "en": "Dhipeiora",
+    "or": "ଢିପେଇଓର"
+  },
+  {
+    "en": "Dhirasahi",
+    "or": "ଢିରସହି"
+  },
+  {
+    "en": "Dhobatalia",
+    "or": "ଢୋବତଲିଅ"
+  },
+  {
+    "en": "Dhrubapahalipur",
+    "or": "ଢ୍ରୁବପହଲିପୁର୍"
+  },
+  {
+    "en": "Dhusuri",
+    "or": "ଢୁସୁରି"
+  },
+  {
+    "en": "Dhusuri (p)",
+    "or": "ଢୁସୁରି (ପ୍)"
+  },
+  {
+    "en": "Dianbansaria",
+    "or": "ଡିଅନ୍ବନ୍ସରିଅ"
+  },
+  {
+    "en": "Dikhitabindha",
+    "or": "ଡିଖିତବିନ୍ଧ"
+  },
+  {
+    "en": "Dillo",
+    "or": "ଡିଲ୍ଲୋ"
+  },
+  {
+    "en": "Dinajpur",
+    "or": "ଡିନଜ୍ପୁର୍"
+  },
+  {
+    "en": "Dinari",
+    "or": "ଡିନରି"
+  },
+  {
+    "en": "Doharasahi",
+    "or": "ଡୋହରସହି"
+  },
+  {
+    "en": "Dolagobindapur",
+    "or": "ଡୋଲଗୋବିନ୍ଦପୁର୍"
+  },
+  {
+    "en": "Dolapadi",
+    "or": "ଡୋଲପଦି"
+  },
+  {
+    "en": "Dolasahi",
+    "or": "ଡୋଲସହି"
+  },
+  {
+    "en": "Dosinga",
+    "or": "ଡୋସିନ୍ଗ"
+  },
+  {
+    "en": "Dovabil",
+    "or": "ଡୋଵବିଲ୍"
+  },
+  {
+    "en": "Dubal",
+    "or": "ଡୁବଲ୍"
+  },
+  {
+    "en": "Durgapur",
+    "or": "ଡୁର୍ଗପୁର୍"
+  },
+  {
+    "en": "Duteibindha",
+    "or": "ଡୁତେଇବିନ୍ଧ"
+  },
+  {
+    "en": "Elakha",
+    "or": "Eଲଖ"
+  },
+  {
+    "en": "Eradei",
+    "or": "Eରଦେଇ"
+  },
+  {
+    "en": "Eram",
+    "or": "Eରମ୍"
+  },
+  {
+    "en": "Erara",
+    "or": "Eରର"
+  },
+  {
+    "en": "Erei",
+    "or": "Eରେଇ"
+  },
+  {
+    "en": "Erendei",
+    "or": "Eରେନ୍ଦେଇ"
+  },
+  {
+    "en": "Erjhatia",
+    "or": "Eର୍ଝତିଅ"
+  },
+  {
+    "en": "Ertal",
+    "or": "Eର୍ତଲ୍"
+  },
+  {
+    "en": "Fakirpur",
+    "or": "Fଅକିର୍ପୁର୍"
+  },
+  {
+    "en": "Fatepur",
+    "or": "Fଅତେପୁର୍"
+  },
+  {
+    "en": "Fulagadia",
+    "or": "Fଉଲଗଦିଅ"
+  },
+  {
+    "en": "Gabharpur",
+    "or": "ଗ଼ଭର୍ପୁର୍"
+  },
+  {
+    "en": "Gachhoria",
+    "or": "ଗ଼ଛୋରିଅ"
+  },
+  {
+    "en": "Gadadharpur",
+    "or": "ଗ଼ଦଧର୍ପୁର୍"
+  },
+  {
+    "en": "Gadala",
+    "or": "ଗ଼ଦଲ"
+  },
+  {
+    "en": "Gadala Khas",
+    "or": "ଗ଼ଦଲ ଖ଼୍ହସ୍"
+  },
+  {
+    "en": "Gajendrapur",
+    "or": "ଗ଼ଜେନ୍ଦ୍ରପୁର୍"
+  },
+  {
+    "en": "Gajipur",
+    "or": "ଗ଼ଜିପୁର୍"
+  },
+  {
+    "en": "Gandagara",
+    "or": "ଗ଼ନ୍ଦଗର"
+  },
+  {
+    "en": "Gandakura",
+    "or": "ଗ଼ନ୍ଦକୁର"
+  },
+  {
+    "en": "Gandharbabindha",
+    "or": "ଗ଼ନ୍ଧର୍ବବିନ୍ଧ"
+  },
+  {
+    "en": "Gangadharpur",
+    "or": "ଗ଼ନ୍ଗଧର୍ପୁର୍"
+  },
+  {
+    "en": "Gangadharpurpatana",
+    "or": "ଗ଼ନ୍ଗଧର୍ପୁର୍ପତନ"
+  },
+  {
+    "en": "Ganijang",
+    "or": "ଗ଼ନିଜନ୍ଗ୍"
+  },
+  {
+    "en": "Ganjamal",
+    "or": "ଗ଼ନ୍ଜମଲ୍"
+  },
+  {
+    "en": "Garadpur",
+    "or": "ଗ଼ରଦ୍ପୁର୍"
+  },
+  {
+    "en": "Garakolha",
+    "or": "ଗ଼ରକୋଲ୍ହ"
+  },
+  {
+    "en": "Gariali",
+    "or": "ଗ଼ରିଅଲି"
+  },
+  {
+    "en": "Garipur",
+    "or": "ଗ଼ରିପୁର୍"
+  },
+  {
+    "en": "Garudapur",
+    "or": "ଗ଼ରୁଦପୁର୍"
+  },
+  {
+    "en": "Gavigadia",
+    "or": "ଗ଼ଵିଗଦିଅ"
+  },
+  {
+    "en": "Gelpur",
+    "or": "ଗ଼େଲ୍ପୁର୍"
+  },
+  {
+    "en": "Geltua",
+    "or": "ଗ଼େଲ୍ତୁଅ"
+  },
+  {
+    "en": "Ghantagadia",
+    "or": "ଗ଼୍ହନ୍ତଗଦିଅ"
+  },
+  {
+    "en": "Ghanteswar",
+    "or": "ଗ଼୍ହନ୍ତେସ୍ଵର୍"
+  },
+  {
+    "en": "Gharapada",
+    "or": "ଗ଼୍ହରପଦ"
+  },
+  {
+    "en": "Ghatapur",
+    "or": "ଗ଼୍ହତପୁର୍"
+  },
+  {
+    "en": "Gilapadi",
+    "or": "ଗ଼ିଲପଦି"
+  },
+  {
+    "en": "Giridharinagar",
+    "or": "ଗ଼ିରିଧରିନଗର୍"
+  },
+  {
+    "en": "Gobindapur",
+    "or": "ଗ଼ୋବିନ୍ଦପୁର୍"
+  },
+  {
+    "en": "Gobindbindha",
+    "or": "ଗ଼ୋବିନ୍ଦ୍ବିନ୍ଧ"
+  },
+  {
+    "en": "Gobindpur",
+    "or": "ଗ଼ୋବିନ୍ଦ୍ପୁର୍"
+  },
+  {
+    "en": "Gohira",
+    "or": "ଗ଼ୋହିର"
+  },
+  {
+    "en": "Gohirani",
+    "or": "ଗ଼ୋହିରନି"
+  },
+  {
+    "en": "Gohirapada",
+    "or": "ଗ଼ୋହିରପଦ"
+  },
+  {
+    "en": "Gohirapadi",
+    "or": "ଗ଼ୋହିରପଦି"
+  },
+  {
+    "en": "Gokulpur",
+    "or": "ଗ଼ୋକୁଲ୍ପୁର୍"
+  },
+  {
+    "en": "Goladia",
+    "or": "ଗ଼ୋଲଦିଅ"
+  },
+  {
+    "en": "Golapokhari",
+    "or": "ଗ଼ୋଲପୋଖରି"
+  },
+  {
+    "en": "Gopa",
+    "or": "ଗ଼ୋପ"
+  },
+  {
+    "en": "Gopalamadhab",
+    "or": "ଗ଼ୋପଲମଧବ୍"
+  },
+  {
+    "en": "Gopalbindha",
+    "or": "ଗ଼ୋପଲ୍ବିନ୍ଧ"
+  },
+  {
+    "en": "Gopaldohara",
+    "or": "ଗ଼ୋପଲ୍ଦୋହର"
+  },
+  {
+    "en": "Gopalpur",
+    "or": "ଗ଼ୋପଲ୍ପୁର୍"
+  },
+  {
+    "en": "Gopinathpur",
+    "or": "ଗ଼ୋପିନଥ୍ପୁର୍"
+  },
+  {
+    "en": "Goramati",
+    "or": "ଗ଼ୋରମତି"
+  },
+  {
+    "en": "Gothina",
+    "or": "ଗ଼ୋଥିନ"
+  },
+  {
+    "en": "Goudabishinuapada",
+    "or": "ଗ଼ୋଉଦବିଶିନୁଅପଦ"
+  },
+  {
+    "en": "Goudunipokhari",
+    "or": "ଗ଼ୋଉଦୁନିପୋଖରି"
+  },
+  {
+    "en": "Gouradeipur",
+    "or": "ଗ଼ୋଉରଦେଇପୁର୍"
+  },
+  {
+    "en": "Gouraprasad",
+    "or": "ଗ଼ୋଉରପ୍ରସଦ୍"
+  },
+  {
+    "en": "Govindapur",
+    "or": "ଗ଼ୋଵିନ୍ଦପୁର୍"
+  },
+  {
+    "en": "Govindpur",
+    "or": "ଗ଼ୋଵିନ୍ଦ୍ପୁର୍"
+  },
+  {
+    "en": "Guagaria",
+    "or": "ଗ଼ୁଅଗରିଅ"
+  },
+  {
+    "en": "Guamal",
+    "or": "ଗ଼ୁଅମଲ୍"
+  },
+  {
+    "en": "Guanl",
+    "or": "ଗ଼ୁଅନ୍ଲ୍"
+  },
+  {
+    "en": "Guansol",
+    "or": "ଗ଼ୁଅନ୍ସୋଲ୍"
+  },
+  {
+    "en": "Gudupal",
+    "or": "ଗ଼ୁଦୁପଲ୍"
+  },
+  {
+    "en": "Guhaldihi",
+    "or": "ଗ଼ୁହଲ୍ଦିହି"
+  },
+  {
+    "en": "Guhalia",
+    "or": "ଗ଼ୁହଲିଅ"
+  },
+  {
+    "en": "Gujidarada",
+    "or": "ଗ଼ୁଜିଦରଦ"
+  },
+  {
+    "en": "Gurudaspur",
+    "or": "ଗ଼ୁରୁଦସ୍ପୁର୍"
+  },
+  {
+    "en": "Habadasingh",
+    "or": "ଃଅବଦସିନ୍ଘ୍"
+  },
+  {
+    "en": "Hajipur",
+    "or": "ଃଅଜିପୁର୍"
+  },
+  {
+    "en": "Haladharbindha",
+    "or": "ଃଅଲଧର୍ବିନ୍ଧ"
+  },
+  {
+    "en": "Haladia",
+    "or": "ଃଅଲଦିଅ"
+  },
+  {
+    "en": "Haladipahani",
+    "or": "ଃଅଲଦିପହନି"
+  },
+  {
+    "en": "Hamirbindha",
+    "or": "ଃଅମିର୍ବିନ୍ଧ"
+  },
+  {
+    "en": "Hansapur",
+    "or": "ଃଅନ୍ସପୁର୍"
+  },
+  {
+    "en": "Harekrushnapur",
+    "or": "ଃଅରେକ୍ରୁଶ୍ନପୁର୍"
+  },
+  {
+    "en": "Harichandanpur",
+    "or": "ଃଅରିଚନ୍ଦନ୍ପୁର୍"
+  },
+  {
+    "en": "Haripur",
+    "or": "ଃଅରିପୁର୍"
+  },
+  {
+    "en": "Haripurbindha",
+    "or": "ଃଅରିପୁର୍ବିନ୍ଧ"
+  },
+  {
+    "en": "Harisankarpur",
+    "or": "ଃଅରିସନ୍କର୍ପୁର୍"
+  },
+  {
+    "en": "Harisaranabindha",
+    "or": "ଃଅରିସରନବିନ୍ଧ"
+  },
+  {
+    "en": "Harishpur",
+    "or": "ଃଅରିଶ୍ପୁର୍"
+  },
+  {
+    "en": "Harisinghpur",
+    "or": "ଃଅରିସିନ୍ଘ୍ପୁର୍"
+  },
+  {
+    "en": "Hasanabad",
+    "or": "ଃଅସନବଦ୍"
+  },
+  {
+    "en": "Hasinpur",
+    "or": "ଃଅସିନ୍ପୁର୍"
+  },
+  {
+    "en": "Hatadihi",
+    "or": "ଃଅତଦିହି"
+  },
+  {
+    "en": "Hatapada",
+    "or": "ଃଅତପଦ"
+  },
+  {
+    "en": "Hatapur",
+    "or": "ଃଅତପୁର୍"
+  },
+  {
+    "en": "Hatiapada",
+    "or": "ଃଅତିଅପଦ"
+  },
+  {
+    "en": "Hatuari",
+    "or": "ଃଅତୁଅରି"
+  },
+  {
+    "en": "Helapur",
+    "or": "ଃଏଲପୁର୍"
+  },
+  {
+    "en": "Hengupati",
+    "or": "ଃଏନ୍ଗୁପତି"
+  },
+  {
+    "en": "Hetampur",
+    "or": "ଃଏତମ୍ପୁର୍"
+  },
+  {
+    "en": "Hirarampur",
+    "or": "ଃଇରରମ୍ପୁର୍"
+  },
+  {
+    "en": "Hrudayaprasad",
+    "or": "ଃରୁଦଯପ୍ରସଦ୍"
+  },
+  {
+    "en": "Ichhadamajapharpur",
+    "or": "ଈଛଦମଜଫର୍ପୁର୍"
+  },
+  {
+    "en": "Indiria",
+    "or": "ଈନ୍ଦିରିଅ"
+  },
+  {
+    "en": "Isanpur",
+    "or": "ଈସନ୍ପୁର୍"
+  },
+  {
+    "en": "Ishanpur",
+    "or": "ଈଶନ୍ପୁର୍"
+  },
+  {
+    "en": "Iswarpur",
+    "or": "ଈସ୍ଵର୍ପୁର୍"
+  },
+  {
+    "en": "Itua",
+    "or": "ଈତୁଅ"
+  },
+  {
+    "en": "Jafarabad",
+    "or": "ଜ଼ଫ଼ରବଦ୍"
+  },
+  {
+    "en": "Jagadalpur",
+    "or": "ଜ଼ଗଦଲ୍ପୁର୍"
+  },
+  {
+    "en": "Jaganathpur",
+    "or": "ଜ଼ଗନଥ୍ପୁର୍"
+  },
+  {
+    "en": "Jagannathapur",
+    "or": "ଜ଼ଗନ୍ନଥପୁର୍"
+  },
+  {
+    "en": "Jagannathi",
+    "or": "ଜ଼ଗନ୍ନଥି"
+  },
+  {
+    "en": "Jagannathprasad",
+    "or": "ଜ଼ଗନ୍ନଥ୍ପ୍ରସଦ୍"
+  },
+  {
+    "en": "Jagannathpur",
+    "or": "ଜ଼ଗନ୍ନଥ୍ପୁର୍"
+  },
+  {
+    "en": "Jagula",
+    "or": "ଜ଼ଗୁଲ"
+  },
+  {
+    "en": "Jagulisahi",
+    "or": "ଜ଼ଗୁଲିସହି"
+  },
+  {
+    "en": "Jahangir",
+    "or": "ଜ଼ହନ୍ଗିର୍"
+  },
+  {
+    "en": "Jaladharpur",
+    "or": "ଜ଼ଲଧର୍ପୁର୍"
+  },
+  {
+    "en": "Jalahari",
+    "or": "ଜ଼ଲହରି"
+  },
+  {
+    "en": "Jalamandua",
+    "or": "ଜ଼ଲମନ୍ଦୁଅ"
+  },
+  {
+    "en": "Jalanga",
+    "or": "ଜ଼ଲନ୍ଗ"
+  },
+  {
+    "en": "Jaleswarpur",
+    "or": "ଜ଼ଲେସ୍ଵର୍ପୁର୍"
+  },
+  {
+    "en": "Jaminibindha",
+    "or": "ଜ଼ମିନିବିନ୍ଧ"
+  },
+  {
+    "en": "Jamjodi",
+    "or": "ଜ଼ମ୍ଜୋଦି"
+  },
+  {
+    "en": "Jamugadia",
+    "or": "ଜ଼ମୁଗଦିଅ"
+  },
+  {
+    "en": "Janakdeipur",
+    "or": "ଜ଼ନକ୍ଦେଇପୁର୍"
+  },
+  {
+    "en": "Jangaria (Janagadia)",
+    "or": "ଜ଼ନ୍ଗରିଅ (ଜ଼ନଗଦିଅ)"
+  },
+  {
+    "en": "Jantuali",
+    "or": "ଜ଼ନ୍ତୁଅଲି"
+  },
+  {
+    "en": "Jashipur",
+    "or": "ଜ଼ଶିପୁର୍"
+  },
+  {
+    "en": "Jasobantapur",
+    "or": "ଜ଼ସୋବନ୍ତପୁର୍"
+  },
+  {
+    "en": "Jayadurgapatana",
+    "or": "ଜ଼ଯଦୁର୍ଗପତନ"
+  },
+  {
+    "en": "Jayakrushnapur",
+    "or": "ଜ଼ଯକ୍ରୁଶ୍ନପୁର୍"
+  },
+  {
+    "en": "Jayantara",
+    "or": "ଜ଼ଯନ୍ତର"
+  },
+  {
+    "en": "Jayapur",
+    "or": "ଜ଼ଯପୁର୍"
+  },
+  {
+    "en": "Jayasingpur",
+    "or": "ଜ଼ଯସିନ୍ଗ୍ପୁର୍"
+  },
+  {
+    "en": "Jaypur",
+    "or": "ଜ଼ଯ୍ପୁର୍"
+  },
+  {
+    "en": "Jayrampur",
+    "or": "ଜ଼ଯ୍ରମ୍ପୁର୍"
+  },
+  {
+    "en": "Jemadeipur",
+    "or": "ଜ଼େମଦେଇପୁର୍"
+  },
+  {
+    "en": "Jenapur",
+    "or": "ଜ଼େନପୁର୍"
+  },
+  {
+    "en": "Jhadsara",
+    "or": "ଜ଼୍ହଦ୍ସର"
+  },
+  {
+    "en": "Jharakata",
+    "or": "ଜ଼୍ହରକତ"
+  },
+  {
+    "en": "Jharidihi",
+    "or": "ଜ଼୍ହରିଦିହି"
+  },
+  {
+    "en": "Jharpada",
+    "or": "ଜ଼୍ହର୍ପଦ"
+  },
+  {
+    "en": "Jhinkiria",
+    "or": "ଜ଼୍ହିନ୍କିରିଅ"
+  },
+  {
+    "en": "Jhinkria",
+    "or": "ଜ଼୍ହିନ୍କ୍ରିଅ"
+  },
+  {
+    "en": "Jhutna",
+    "or": "ଜ଼୍ହୁତ୍ନ"
+  },
+  {
+    "en": "Jiginipur",
+    "or": "ଜ଼ିଗିନିପୁର୍"
+  },
+  {
+    "en": "Jiharpur",
+    "or": "ଜ଼ିହର୍ପୁର୍"
+  },
+  {
+    "en": "Jiragambhira",
+    "or": "ଜ଼ିରଗମ୍ଭିର"
+  },
+  {
+    "en": "Jireigadi",
+    "or": "ଜ଼ିରେଇଗଦି"
+  },
+  {
+    "en": "Jirina",
+    "or": "ଜ଼ିରିନ"
+  },
+  {
+    "en": "Jitanaga",
+    "or": "ଜ଼ିତନଗ"
+  },
+  {
+    "en": "Jogipokhari",
+    "or": "ଜ଼ୋଗିପୋଖରି"
+  },
+  {
+    "en": "Joragadia",
+    "or": "ଜ଼ୋରଗଦିଅ"
+  },
+  {
+    "en": "Josotikiri",
+    "or": "ଜ଼ୋସୋତିକିରି"
+  },
+  {
+    "en": "Junuda",
+    "or": "ଜ଼ୁନୁଦ"
+  },
+  {
+    "en": "Jyosnamayee",
+    "or": "ଜ଼୍ଯୋସ୍ନମଯୀ"
+  },
+  {
+    "en": "Jyotisingpur",
+    "or": "ଜ଼୍ଯୋତିସିନ୍ଗ୍ପୁର୍"
+  },
+  {
+    "en": "Kabirpur",
+    "or": "ଖ଼ବିର୍ପୁର୍"
+  },
+  {
+    "en": "Kadabarang",
+    "or": "ଖ଼ଦବରନ୍ଗ୍"
+  },
+  {
+    "en": "Kadapada",
+    "or": "ଖ଼ଦପଦ"
+  },
+  {
+    "en": "Kaduanasi",
+    "or": "ଖ଼ଦୁଅନସି"
+  },
+  {
+    "en": "Kainphulia",
+    "or": "ଖ଼ୈନ୍ଫୁଲିଅ"
+  },
+  {
+    "en": "Kaithkola",
+    "or": "ଖ଼ୈଥ୍କୋଲ"
+  },
+  {
+    "en": "Kakharudihi",
+    "or": "ଖ଼ଖରୁଦିହି"
+  },
+  {
+    "en": "Kakurigaria",
+    "or": "ଖ଼କୁରିଗରିଅ"
+  },
+  {
+    "en": "Kalahandia",
+    "or": "ଖ଼ଲହନ୍ଦିଅ"
+  },
+  {
+    "en": "Kalapahad",
+    "or": "ଖ଼ଲପହଦ୍"
+  },
+  {
+    "en": "Kalasia",
+    "or": "ଖ଼ଲସିଅ"
+  },
+  {
+    "en": "Kalei",
+    "or": "ଖ଼ଲେଇ"
+  },
+  {
+    "en": "Kaliaboda",
+    "or": "ଖ଼ଲିଅବୋଦ"
+  },
+  {
+    "en": "Kaliapat",
+    "or": "ଖ଼ଲିଅପତ୍"
+  },
+  {
+    "en": "Kaliapata",
+    "or": "ଖ଼ଲିଅପତ"
+  },
+  {
+    "en": "Kalibindha",
+    "or": "ଖ଼ଲିବିନ୍ଧ"
+  },
+  {
+    "en": "Kalidaspur",
+    "or": "ଖ଼ଲିଦସ୍ପୁର୍"
+  },
+  {
+    "en": "Kaligadi",
+    "or": "ଖ଼ଲିଗଦି"
+  },
+  {
+    "en": "Kalimegha",
+    "or": "ଖ଼ଲିମେଘ"
+  },
+  {
+    "en": "Kalyani",
+    "or": "ଖ଼ଲ୍ଯନି"
+  },
+  {
+    "en": "Kalyanpur",
+    "or": "ଖ଼ଲ୍ଯନ୍ପୁର୍"
+  },
+  {
+    "en": "Kamalapada",
+    "or": "ଖ଼ମଲପଦ"
+  },
+  {
+    "en": "Kamalpur",
+    "or": "ଖ଼ମଲ୍ପୁର୍"
+  },
+  {
+    "en": "Kamargan",
+    "or": "ଖ଼ମର୍ଗନ୍"
+  },
+  {
+    "en": "Kamargaria",
+    "or": "ଖ଼ମର୍ଗରିଅ"
+  },
+  {
+    "en": "Kamaria",
+    "or": "ଖ଼ମରିଅ"
+  },
+  {
+    "en": "Kanakpalli",
+    "or": "ଖ଼ନକ୍ପଲ୍ଲି"
+  },
+  {
+    "en": "Kanakprasad",
+    "or": "ଖ଼ନକ୍ପ୍ରସଦ୍"
+  },
+  {
+    "en": "Kanatia",
+    "or": "ଖ଼ନତିଅ"
+  },
+  {
+    "en": "Kanchanpur",
+    "or": "ଖ଼ନ୍ଚନ୍ପୁର୍"
+  },
+  {
+    "en": "Kandaba",
+    "or": "ଖ଼ନ୍ଦବ"
+  },
+  {
+    "en": "Kandagaradi",
+    "or": "ଖ଼ନ୍ଦଗରଦି"
+  },
+  {
+    "en": "Kandapur",
+    "or": "ଖ଼ନ୍ଦପୁର୍"
+  },
+  {
+    "en": "Kandaragadia",
+    "or": "ଖ଼ନ୍ଦରଗଦିଅ"
+  },
+  {
+    "en": "Kandha",
+    "or": "ଖ଼ନ୍ଧ"
+  },
+  {
+    "en": "Kandiasahi",
+    "or": "ଖ଼ନ୍ଦିଅସହି"
+  },
+  {
+    "en": "Kanheibindha",
+    "or": "ଖ଼ନ୍ହେଇବିନ୍ଧ"
+  },
+  {
+    "en": "Kanjiapal",
+    "or": "ଖ଼ନ୍ଜିଅପଲ୍"
+  },
+  {
+    "en": "Kanjikhia",
+    "or": "ଖ଼ନ୍ଜିଖିଅ"
+  },
+  {
+    "en": "Kanpada",
+    "or": "ଖ଼ନ୍ପଦ"
+  },
+  {
+    "en": "Kanpadabindha",
+    "or": "ଖ଼ନ୍ପଦବିନ୍ଧ"
+  },
+  {
+    "en": "Kanpur",
+    "or": "ଖ଼ନ୍ପୁର୍"
+  },
+  {
+    "en": "Kansaripur",
+    "or": "ଖ଼ନ୍ସରିପୁର୍"
+  },
+  {
+    "en": "Kantada",
+    "or": "ଖ଼ନ୍ତଦ"
+  },
+  {
+    "en": "Kantapara",
+    "or": "ଖ଼ନ୍ତପର"
+  },
+  {
+    "en": "Kantapari",
+    "or": "ଖ଼ନ୍ତପରି"
+  },
+  {
+    "en": "Kanthisahi",
+    "or": "ଖ଼ନ୍ଥିସହି"
+  },
+  {
+    "en": "Kanti",
+    "or": "ଖ଼ନ୍ତି"
+  },
+  {
+    "en": "Kantia",
+    "or": "ଖ଼ନ୍ତିଅ"
+  },
+  {
+    "en": "Kantidol",
+    "or": "ଖ଼ନ୍ତିଦୋଲ୍"
+  },
+  {
+    "en": "Kantigadia",
+    "or": "ଖ଼ନ୍ତିଗଦିଅ"
+  },
+  {
+    "en": "Kantipur",
+    "or": "ଖ଼ନ୍ତିପୁର୍"
+  },
+  {
+    "en": "Kapagaria",
+    "or": "ଖ଼ପଗରିଅ"
+  },
+  {
+    "en": "Kapila",
+    "or": "ଖ଼ପିଲ"
+  },
+  {
+    "en": "Karada",
+    "or": "ଖ଼ରଦ"
+  },
+  {
+    "en": "Karadipal",
+    "or": "ଖ଼ରଦିପଲ୍"
+  },
+  {
+    "en": "Karanapali",
+    "or": "ଖ଼ରନପଲି"
+  },
+  {
+    "en": "Karanapokhari",
+    "or": "ଖ଼ରନପୋଖରି"
+  },
+  {
+    "en": "Karandigadia",
+    "or": "ଖ଼ରନ୍ଦିଗଦିଅ"
+  },
+  {
+    "en": "Karandimal",
+    "or": "ଖ଼ରନ୍ଦିମଲ୍"
+  },
+  {
+    "en": "Karanjaadia",
+    "or": "ଖ଼ରନ୍ଜାଦିଅ"
+  },
+  {
+    "en": "Karanjamal",
+    "or": "ଖ଼ରନ୍ଜମଲ୍"
+  },
+  {
+    "en": "Karanjigunupur",
+    "or": "ଖ଼ରନ୍ଜିଗୁନୁପୁର୍"
+  },
+  {
+    "en": "Kasalpur",
+    "or": "ଖ଼ସଲ୍ପୁର୍"
+  },
+  {
+    "en": "Kasati",
+    "or": "ଖ଼ସତି"
+  },
+  {
+    "en": "Kashiabhiram",
+    "or": "ଖ଼ଶିଅଭିରମ୍"
+  },
+  {
+    "en": "Kashipur",
+    "or": "ଖ଼ଶିପୁର୍"
+  },
+  {
+    "en": "Kasimpur",
+    "or": "ଖ଼ସିମ୍ପୁର୍"
+  },
+  {
+    "en": "Kasindipur",
+    "or": "ଖ଼ସିନ୍ଦିପୁର୍"
+  },
+  {
+    "en": "Kasipur",
+    "or": "ଖ଼ସିପୁର୍"
+  },
+  {
+    "en": "Kasoti",
+    "or": "ଖ଼ସୋତି"
+  },
+  {
+    "en": "Kasturikana",
+    "or": "ଖ଼ସ୍ତୁରିକନ"
+  },
+  {
+    "en": "Katasahi",
+    "or": "ଖ଼ତସହି"
+  },
+  {
+    "en": "Kathamunda",
+    "or": "ଖ଼ଥମୁନ୍ଦ"
+  },
+  {
+    "en": "Katina",
+    "or": "ଖ଼ତିନ"
+  },
+  {
+    "en": "Kaudiapal",
+    "or": "ଖ଼ୌଦିଅପଲ୍"
+  },
+  {
+    "en": "Kaupuni",
+    "or": "ଖ଼ୌପୁନି"
+  },
+  {
+    "en": "Kaupur",
+    "or": "ଖ଼ୌପୁର୍"
+  },
+  {
+    "en": "Kedarpur",
+    "or": "ଖ଼େଦର୍ପୁର୍"
+  },
+  {
+    "en": "Kerasahi",
+    "or": "ଖ଼େରସହି"
+  },
+  {
+    "en": "Kesarpur",
+    "or": "ଖ଼େସର୍ପୁର୍"
+  },
+  {
+    "en": "Keshpur",
+    "or": "ଖ଼େଶ୍ପୁର୍"
+  },
+  {
+    "en": "Kespur",
+    "or": "ଖ଼େସ୍ପୁର୍"
+  },
+  {
+    "en": "Khadalpokhari",
+    "or": "ଖ଼୍ହଦଲ୍ପୋଖରି"
+  },
+  {
+    "en": "Khadijan",
+    "or": "ଖ଼୍ହଦିଜନ୍"
+  },
+  {
+    "en": "Khadipada",
+    "or": "ଖ଼୍ହଦିପଦ"
+  },
+  {
+    "en": "Khadisinga",
+    "or": "ଖ଼୍ହଦିସିନ୍ଗ"
+  },
+  {
+    "en": "Khajurigadia",
+    "or": "ଖ଼୍ହଜୁରିଗଦିଅ"
+  },
+  {
+    "en": "Khakadakolha",
+    "or": "ଖ଼୍ହକଦକୋଲ୍ହ"
+  },
+  {
+    "en": "Khalagadia",
+    "or": "ଖ଼୍ହଲଗଦିଅ"
+  },
+  {
+    "en": "Khamarasahi",
+    "or": "ଖ଼୍ହମରସହି"
+  },
+  {
+    "en": "Khamarsahi",
+    "or": "ଖ଼୍ହମର୍ସହି"
+  },
+  {
+    "en": "Khanabadi",
+    "or": "ଖ଼୍ହନବଦି"
+  },
+  {
+    "en": "Khandatara",
+    "or": "ଖ଼୍ହନ୍ଦତର"
+  },
+  {
+    "en": "Khantakhuada",
+    "or": "ଖ଼୍ହନ୍ତଖୁଅଦ"
+  },
+  {
+    "en": "Khaparapada",
+    "or": "ଖ଼୍ହପରପଦ"
+  },
+  {
+    "en": "Khapuriapada",
+    "or": "ଖ଼୍ହପୁରିଅପଦ"
+  },
+  {
+    "en": "Kharida Binayakpur",
+    "or": "ଖ଼୍ହରିଦ Bଇନଯକ୍ପୁର୍"
+  },
+  {
+    "en": "Kharijipiripur",
+    "or": "ଖ଼୍ହରିଜିପିରିପୁର୍"
+  },
+  {
+    "en": "Kharijjharidia",
+    "or": "ଖ଼୍ହରିଜ୍ଝରିଦିଅ"
+  },
+  {
+    "en": "Kharijkorua",
+    "or": "ଖ଼୍ହରିଜ୍କୋରୁଅ"
+  },
+  {
+    "en": "Kharijkurigan",
+    "or": "ଖ଼୍ହରିଜ୍କୁରିଗନ୍"
+  },
+  {
+    "en": "Kharimahara",
+    "or": "ଖ଼୍ହରିମହର"
+  },
+  {
+    "en": "Khatuapatna",
+    "or": "ଖ଼୍ହତୁଅପତ୍ନ"
+  },
+  {
+    "en": "Khedarpur",
+    "or": "ଖ଼୍ହେଦର୍ପୁର୍"
+  },
+  {
+    "en": "Khedualpur",
+    "or": "ଖ଼୍ହେଦୁଅଲ୍ପୁର୍"
+  },
+  {
+    "en": "Kheranga",
+    "or": "ଖ଼୍ହେରନ୍ଗ"
+  },
+  {
+    "en": "Kherualpur",
+    "or": "ଖ଼୍ହେରୁଅଲ୍ପୁର୍"
+  },
+  {
+    "en": "Khorasahi",
+    "or": "ଖ଼୍ହୋରସହି"
+  },
+  {
+    "en": "Khordanga",
+    "or": "ଖ଼୍ହୋର୍ଦନ୍ଗ"
+  },
+  {
+    "en": "Khosalipur",
+    "or": "ଖ଼୍ହୋସଲିପୁର୍"
+  },
+  {
+    "en": "Kiapada",
+    "or": "ଖ଼ିଅପଦ"
+  },
+  {
+    "en": "Kishoreprasad",
+    "or": "ଖ଼ିଶୋରେପ୍ରସଦ୍"
+  },
+  {
+    "en": "Kismat",
+    "or": "ଖ଼ିସ୍ମତ୍"
+  },
+  {
+    "en": "Kismatkrushnapur",
+    "or": "ଖ଼ିସ୍ମତ୍କ୍ରୁଶ୍ନପୁର୍"
+  },
+  {
+    "en": "Kodagambhir",
+    "or": "ଖ଼ୋଦଗମ୍ଭିର୍"
+  },
+  {
+    "en": "Koilekha",
+    "or": "ଖ଼ୋଇଲେଖ"
+  },
+  {
+    "en": "Koliaria",
+    "or": "ଖ଼ୋଲିଅରିଅ"
+  },
+  {
+    "en": "Koligadia",
+    "or": "ଖ଼ୋଲିଗଦିଅ"
+  },
+  {
+    "en": "Korabaruan",
+    "or": "ଖ଼ୋରବରୁଅନ୍"
+  },
+  {
+    "en": "Korabatiasana",
+    "or": "ଖ଼ୋରବତିଅସନ"
+  },
+  {
+    "en": "Korakara",
+    "or": "ଖ଼ୋରକର"
+  },
+  {
+    "en": "Koranta",
+    "or": "ଖ଼ୋରନ୍ତ"
+  },
+  {
+    "en": "Korbatiabara",
+    "or": "ଖ଼ୋର୍ବତିଅବର"
+  },
+  {
+    "en": "Korigan",
+    "or": "ଖ଼ୋରିଗନ୍"
+  },
+  {
+    "en": "Korkada",
+    "or": "ଖ଼ୋର୍କଦ"
+  },
+  {
+    "en": "Korkara",
+    "or": "ଖ଼ୋର୍କର"
+  },
+  {
+    "en": "Korua",
+    "or": "ଖ଼ୋରୁଅ"
+  },
+  {
+    "en": "Kotagadia",
+    "or": "ଖ଼ୋତଗଦିଅ"
+  },
+  {
+    "en": "Kothar",
+    "or": "ଖ଼ୋଥର୍"
+  },
+  {
+    "en": "Kotsira",
+    "or": "ଖ଼ୋତ୍ସିର"
+  },
+  {
+    "en": "Krushnadaspur",
+    "or": "ଖ଼୍ରୁଶ୍ନଦସ୍ପୁର୍"
+  },
+  {
+    "en": "Krushnaprasad",
+    "or": "ଖ଼୍ରୁଶ୍ନପ୍ରସଦ୍"
+  },
+  {
+    "en": "Krushnapur",
+    "or": "ଖ଼୍ରୁଶ୍ନପୁର୍"
+  },
+  {
+    "en": "Krutibasapur",
+    "or": "ଖ଼୍ରୁତିବସପୁର୍"
+  },
+  {
+    "en": "Kshempur",
+    "or": "ଖ଼୍ଶେମ୍ପୁର୍"
+  },
+  {
+    "en": "Kuali",
+    "or": "ଖ଼ୁଅଲି"
+  },
+  {
+    "en": "Kuamara",
+    "or": "ଖ଼ୁଅମର"
+  },
+  {
+    "en": "Kuanrasar",
+    "or": "ଖ଼ୁଅନ୍ରସର୍"
+  },
+  {
+    "en": "Kuanrchatara",
+    "or": "ଖ଼ୁଅନ୍ର୍ଚତର"
+  },
+  {
+    "en": "Kuanrda",
+    "or": "ଖ଼ୁଅନ୍ର୍ଦ"
+  },
+  {
+    "en": "Kuanrikanthi",
+    "or": "ଖ଼ୁଅନ୍ରିକନ୍ଥି"
+  },
+  {
+    "en": "Kuansmadhia",
+    "or": "ଖ଼ୁଅନ୍ସ୍ମଧିଅ"
+  },
+  {
+    "en": "Kuapada",
+    "or": "ଖ଼ୁଅପଦ"
+  },
+  {
+    "en": "Kubera",
+    "or": "ଖ଼ୁବେର"
+  },
+  {
+    "en": "Kuberagadia",
+    "or": "ଖ଼ୁବେରଗଦିଅ"
+  },
+  {
+    "en": "Kudakanthi",
+    "or": "ଖ଼ୁଦକନ୍ଥି"
+  },
+  {
+    "en": "Kudiamal",
+    "or": "ଖ଼ୁଦିଅମଲ୍"
+  },
+  {
+    "en": "Kulana",
+    "or": "ଖ଼ୁଲନ"
+  },
+  {
+    "en": "Kuleipada",
+    "or": "ଖ଼ୁଲେଇପଦ"
+  },
+  {
+    "en": "Kulhi",
+    "or": "ଖ଼ୁଲ୍ହି"
+  },
+  {
+    "en": "Kulibindha",
+    "or": "ଖ଼ୁଲିବିନ୍ଧ"
+  },
+  {
+    "en": "Kumarpur",
+    "or": "ଖ଼ୁମର୍ପୁର୍"
+  },
+  {
+    "en": "Kumbaria",
+    "or": "ଖ଼ୁମ୍ବରିଅ"
+  },
+  {
+    "en": "Kumbhakaral",
+    "or": "ଖ଼ୁମ୍ଭକରଲ୍"
+  },
+  {
+    "en": "Kumbharia",
+    "or": "ଖ଼ୁମ୍ଭରିଅ"
+  },
+  {
+    "en": "Kundi",
+    "or": "ଖ଼ୁନ୍ଦି"
+  },
+  {
+    "en": "Kundla",
+    "or": "ଖ଼ୁନ୍ଦ୍ଲ"
+  },
+  {
+    "en": "Kuntala",
+    "or": "ଖ଼ୁନ୍ତଲ"
+  },
+  {
+    "en": "Kuriganbindha",
+    "or": "ଖ଼ୁରିଗନ୍ବିନ୍ଧ"
+  },
+  {
+    "en": "Kurikana",
+    "or": "ଖ଼ୁରିକନ"
+  },
+  {
+    "en": "Kuruda",
+    "or": "ଖ଼ୁରୁଦ"
+  },
+  {
+    "en": "Kurusinga",
+    "or": "ଖ଼ୁରୁସିନ୍ଗ"
+  },
+  {
+    "en": "Kusuma",
+    "or": "ଖ଼ୁସୁମ"
+  },
+  {
+    "en": "Kusunibindha",
+    "or": "ଖ଼ୁସୁନିବିନ୍ଧ"
+  },
+  {
+    "en": "Kusunnagar",
+    "or": "ଖ଼ୁସୁନ୍ନଗର୍"
+  },
+  {
+    "en": "Kusunpur",
+    "or": "ଖ଼ୁସୁନ୍ପୁର୍"
+  },
+  {
+    "en": "Kuturia",
+    "or": "ଖ଼ୁତୁରିଅ"
+  },
+  {
+    "en": "Lakshmiprasad",
+    "or": "ଳକ୍ଶ୍ମିପ୍ରସଦ୍"
+  },
+  {
+    "en": "Lakshmisagar",
+    "or": "ଳକ୍ଶ୍ମିସଗର୍"
+  },
+  {
+    "en": "Lalitadeipur",
+    "or": "ଳଲିତଦେଇପୁର୍"
+  },
+  {
+    "en": "Laxmidaspur",
+    "or": "ଳକ୍ଷ୍ମିଦସ୍ପୁର୍"
+  },
+  {
+    "en": "Laxmiprasad",
+    "or": "ଳକ୍ଷ୍ମିପ୍ରସଦ୍"
+  },
+  {
+    "en": "Lo-oger-chhamauza",
+    "or": "ଳୋ-ଓଗେର୍-ଛମୌଜ଼"
+  },
+  {
+    "en": "Lunga",
+    "or": "ଳୁନ୍ଗ"
+  },
+  {
+    "en": "Machhuaghaibada",
+    "or": "ଂଅଛୁଅଘୈବଦ"
+  },
+  {
+    "en": "Machhuaghaisana",
+    "or": "ଂଅଛୁଅଘୈସନ"
+  },
+  {
+    "en": "Madhapur",
+    "or": "ଂଅଧପୁର୍"
+  },
+  {
+    "en": "Madhoi",
+    "or": "ଂଅଧୋଇ"
+  },
+  {
+    "en": "Madhupur",
+    "or": "ଂଅଧୁପୁର୍"
+  },
+  {
+    "en": "Madhusudanpur",
+    "or": "ଂଅଧୁସୁଦନ୍ପୁର୍"
+  },
+  {
+    "en": "Mahammadpur",
+    "or": "ଂଅହମ୍ମଦ୍ପୁର୍"
+  },
+  {
+    "en": "Mahantipada",
+    "or": "ଂଅହନ୍ତିପଦ"
+  },
+  {
+    "en": "Maharampur",
+    "or": "ଂଅହରମ୍ପୁର୍"
+  },
+  {
+    "en": "Mahisagadia",
+    "or": "ଂଅହିସଗଦିଅ"
+  },
+  {
+    "en": "Mahulgadia",
+    "or": "ଂଅହୁଲ୍ଗଦିଅ"
+  },
+  {
+    "en": "Mahulia",
+    "or": "ଂଅହୁଲିଅ"
+  },
+  {
+    "en": "Mahura",
+    "or": "ଂଅହୁର"
+  },
+  {
+    "en": "Majhigan",
+    "or": "ଂଅଝିଗନ୍"
+  },
+  {
+    "en": "Majurigadia",
+    "or": "ଂଅଜୁରିଗଦିଅ"
+  },
+  {
+    "en": "Makhalpur",
+    "or": "ଂଅଖଲ୍ପୁର୍"
+  },
+  {
+    "en": "Malbad",
+    "or": "ଂଅଲ୍ବଦ୍"
+  },
+  {
+    "en": "Malda",
+    "or": "ଂଅଲ୍ଦ"
+  },
+  {
+    "en": "Maliaruan",
+    "or": "ଂଅଲିଅରୁଅନ୍"
+  },
+  {
+    "en": "Malipadi",
+    "or": "ଂଅଲିପଦି"
+  },
+  {
+    "en": "Mallikadeipur",
+    "or": "ଂଅଲ୍ଲିକଦେଇପୁର୍"
+  },
+  {
+    "en": "Malpur",
+    "or": "ଂଅଲ୍ପୁର୍"
+  },
+  {
+    "en": "Maltira",
+    "or": "ଂଅଲ୍ତିର"
+  },
+  {
+    "en": "Mamadila",
+    "or": "ଂଅମଦିଲ"
+  },
+  {
+    "en": "Mamanipur",
+    "or": "ଂଅମନିପୁର୍"
+  },
+  {
+    "en": "Manalapur",
+    "or": "ଂଅନଲପୁର୍"
+  },
+  {
+    "en": "Mandargadia",
+    "or": "ଂଅନ୍ଦର୍ଗଦିଅ"
+  },
+  {
+    "en": "Mangalpur",
+    "or": "ଂଅନ୍ଗଲ୍ପୁର୍"
+  },
+  {
+    "en": "Mangarajpur",
+    "or": "ଂଅନ୍ଗରଜ୍ପୁର୍"
+  },
+  {
+    "en": "Manguli",
+    "or": "ଂଅନ୍ଗୁଲି"
+  },
+  {
+    "en": "Maninathapur",
+    "or": "ଂଅନିନଥପୁର୍"
+  },
+  {
+    "en": "Manipur",
+    "or": "ଂଅନିପୁର୍"
+  },
+  {
+    "en": "Mankidia",
+    "or": "ଂଅନ୍କିଦିଅ"
+  },
+  {
+    "en": "Manmathpur",
+    "or": "ଂଅନ୍ମଥ୍ପୁର୍"
+  },
+  {
+    "en": "Manoharpur",
+    "or": "ଂଅନୋହର୍ପୁର୍"
+  },
+  {
+    "en": "Mantagaria",
+    "or": "ଂଅନ୍ତଗରିଅ"
+  },
+  {
+    "en": "Mantapada",
+    "or": "ଂଅନ୍ତପଦ"
+  },
+  {
+    "en": "Mantapur",
+    "or": "ଂଅନ୍ତପୁର୍"
+  },
+  {
+    "en": "Markandapur",
+    "or": "ଂଅର୍କନ୍ଦପୁର୍"
+  },
+  {
+    "en": "Masana",
+    "or": "ଂଅସନ"
+  },
+  {
+    "en": "Matto",
+    "or": "ଂଅତ୍ତୋ"
+  },
+  {
+    "en": "Maujakhandi",
+    "or": "ଂଔଜଖନ୍ଦି"
+  },
+  {
+    "en": "Mausudha",
+    "or": "ଂଔସୁଧ"
+  },
+  {
+    "en": "Mirdadpur",
+    "or": "ଂଇର୍ଦଦ୍ପୁର୍"
+  },
+  {
+    "en": "Mirhasanpur",
+    "or": "ଂଇର୍ହସନ୍ପୁର୍"
+  },
+  {
+    "en": "Mirjapur",
+    "or": "ଂଇର୍ଜପୁର୍"
+  },
+  {
+    "en": "Mishrapur",
+    "or": "ଂଇଶ୍ରପୁର୍"
+  },
+  {
+    "en": "Mishrapurpatna",
+    "or": "ଂଇଶ୍ରପୁର୍ପତ୍ନ"
+  },
+  {
+    "en": "Misrapur",
+    "or": "ଂଇସ୍ରପୁର୍"
+  },
+  {
+    "en": "Mituani",
+    "or": "ଂଇତୁଅନି"
+  },
+  {
+    "en": "Mobarakpur",
+    "or": "ଂଓବରକ୍ପୁର୍"
+  },
+  {
+    "en": "Mohanpur",
+    "or": "ଂଓହନ୍ପୁର୍"
+  },
+  {
+    "en": "Mohantia",
+    "or": "ଂଓହନ୍ତିଅ"
+  },
+  {
+    "en": "Mruganayani",
+    "or": "ଂରୁଗନଯନି"
+  },
+  {
+    "en": "Muan",
+    "or": "ଂଉଅନ୍"
+  },
+  {
+    "en": "Mudhapada",
+    "or": "ଂଉଧପଦ"
+  },
+  {
+    "en": "Mukundapur",
+    "or": "ଂଉକୁନ୍ଦପୁର୍"
+  },
+  {
+    "en": "Muladiha",
+    "or": "ଂଉଲଦିହ"
+  },
+  {
+    "en": "Mulagan",
+    "or": "ଂଉଲଗନ୍"
+  },
+  {
+    "en": "Mulakaema",
+    "or": "ଂଉଲକଏମ"
+  },
+  {
+    "en": "Munduli",
+    "or": "ଂଉନ୍ଦୁଲି"
+  },
+  {
+    "en": "Mushang",
+    "or": "ଂଉଶନ୍ଗ୍"
+  },
+  {
+    "en": "Mustafapur",
+    "or": "ଂଉସ୍ତଫ଼ପୁର୍"
+  },
+  {
+    "en": "Nachhibindha",
+    "or": "ଣଛିବିନ୍ଧ"
+  },
+  {
+    "en": "Nachhipur",
+    "or": "ଣଛିପୁର୍"
+  },
+  {
+    "en": "Nadigan",
+    "or": "ଣଦିଗନ୍"
+  },
+  {
+    "en": "Naguan",
+    "or": "ଣଗୁଅନ୍"
+  },
+  {
+    "en": "Naho",
+    "or": "ଣହୋ"
+  },
+  {
+    "en": "Naichhanpur",
+    "or": "ଣୈଛନ୍ପୁର୍"
+  },
+  {
+    "en": "Naikanidihi",
+    "or": "ଣୈକନିଦିହି"
+  },
+  {
+    "en": "Naikulasahi",
+    "or": "ଣୈକୁଲସହି"
+  },
+  {
+    "en": "Nalagara",
+    "or": "ଣଲଗର"
+  },
+  {
+    "en": "Nalagohira",
+    "or": "ଣଲଗୋହିର"
+  },
+  {
+    "en": "Nalagunda",
+    "or": "ଣଲଗୁନ୍ଦ"
+  },
+  {
+    "en": "Nalanga",
+    "or": "ଣଲନ୍ଗ"
+  },
+  {
+    "en": "Nalitagadia",
+    "or": "ଣଲିତଗଦିଅ"
+  },
+  {
+    "en": "Nalitagaria",
+    "or": "ଣଲିତଗରିଅ"
+  },
+  {
+    "en": "Nalpur",
+    "or": "ଣଲ୍ପୁର୍"
+  },
+  {
+    "en": "Namakana",
+    "or": "ଣମକନ"
+  },
+  {
+    "en": "Nami",
+    "or": "ଣମି"
+  },
+  {
+    "en": "Nandakandarpa",
+    "or": "ଣନ୍ଦକନ୍ଦର୍ପ"
+  },
+  {
+    "en": "Nandapatna",
+    "or": "ଣନ୍ଦପତ୍ନ"
+  },
+  {
+    "en": "Nandapur",
+    "or": "ଣନ୍ଦପୁର୍"
+  },
+  {
+    "en": "Nando",
+    "or": "ଣନ୍ଦୋ"
+  },
+  {
+    "en": "Nandore",
+    "or": "ଣନ୍ଦୋରେ"
+  },
+  {
+    "en": "Nanguri",
+    "or": "ଣନ୍ଗୁରି"
+  },
+  {
+    "en": "Napanga",
+    "or": "ଣପନ୍ଗ"
+  },
+  {
+    "en": "Narajpur",
+    "or": "ଣରଜ୍ପୁର୍"
+  },
+  {
+    "en": "Narasinghaprasad",
+    "or": "ଣରସିନ୍ଘପ୍ରସଦ୍"
+  },
+  {
+    "en": "Narasinghpur",
+    "or": "ଣରସିନ୍ଘ୍ପୁର୍"
+  },
+  {
+    "en": "Narasingpur",
+    "or": "ଣରସିନ୍ଗ୍ପୁର୍"
+  },
+  {
+    "en": "Narasingpurdian",
+    "or": "ଣରସିନ୍ଗ୍ପୁର୍ଦିଅନ୍"
+  },
+  {
+    "en": "Narayanpur",
+    "or": "ଣରଯନ୍ପୁର୍"
+  },
+  {
+    "en": "Narendrapur",
+    "or": "ଣରେନ୍ଦ୍ରପୁର୍"
+  },
+  {
+    "en": "Naripur",
+    "or": "ଣରିପୁର୍"
+  },
+  {
+    "en": "Nasalapur",
+    "or": "ଣସଲପୁର୍"
+  },
+  {
+    "en": "Naugoruda",
+    "or": "ଣୌଗୋରୁଦ"
+  },
+  {
+    "en": "Naurangapur",
+    "or": "ଣୌରନ୍ଗପୁର୍"
+  },
+  {
+    "en": "Nauriapokhari",
+    "or": "ଣୌରିଅପୋଖରି"
+  },
+  {
+    "en": "Nayahat",
+    "or": "ଣଯହତ୍"
+  },
+  {
+    "en": "Nenjara",
+    "or": "ଣେନ୍ଜର"
+  },
+  {
+    "en": "Nentipur",
+    "or": "ଣେନ୍ତିପୁର୍"
+  },
+  {
+    "en": "Nerada",
+    "or": "ଣେରଦ"
+  },
+  {
+    "en": "Neruali",
+    "or": "ଣେରୁଅଲି"
+  },
+  {
+    "en": "Neulia",
+    "or": "ଣେଉଲିଅ"
+  },
+  {
+    "en": "Nidhibindha",
+    "or": "ଣିଧିବିନ୍ଧ"
+  },
+  {
+    "en": "Niladri",
+    "or": "ଣିଲଦ୍ରି"
+  },
+  {
+    "en": "Nilakanthapur",
+    "or": "ଣିଲକନ୍ଥପୁର୍"
+  },
+  {
+    "en": "Nilok",
+    "or": "ଣିଲୋକ୍"
+  },
+  {
+    "en": "Nimagadia",
+    "or": "ଣିମଗଦିଅ"
+  },
+  {
+    "en": "Nimapada",
+    "or": "ଣିମପଦ"
+  },
+  {
+    "en": "Nimeisahi",
+    "or": "ଣିମେଇସହି"
+  },
+  {
+    "en": "Nimgadia",
+    "or": "ଣିମ୍ଗଦିଅ"
+  },
+  {
+    "en": "Nirgundi",
+    "or": "ଣିର୍ଗୁନ୍ଦି"
+  },
+  {
+    "en": "Nirmalpur",
+    "or": "ଣିର୍ମଲ୍ପୁର୍"
+  },
+  {
+    "en": "Nischanta",
+    "or": "ଣିସ୍ଚନ୍ତ"
+  },
+  {
+    "en": "Nischintapur",
+    "or": "ଣିସ୍ଚିନ୍ତପୁର୍"
+  },
+  {
+    "en": "Nuabandha",
+    "or": "ଣୁଅବନ୍ଧ"
+  },
+  {
+    "en": "Nuagan",
+    "or": "ଣୁଅଗନ୍"
+  },
+  {
+    "en": "Nuaganichapur",
+    "or": "ଣୁଅଗନିଚପୁର୍"
+  },
+  {
+    "en": "Nuagaon",
+    "or": "ଣୁଅଗଓନ୍"
+  },
+  {
+    "en": "Nuagaon ",
+    "or": "ଣୁଅଗଓନ୍ "
+  },
+  {
+    "en": "Nuananda",
+    "or": "ଣୁଅନନ୍ଦ"
+  },
+  {
+    "en": "Nuapokhari",
+    "or": "ଣୁଅପୋଖରି"
+  },
+  {
+    "en": "Nuasahi",
+    "or": "ଣୁଅସହି"
+  },
+  {
+    "en": "Nunapadi",
+    "or": "ଣୁନପଦି"
+  },
+  {
+    "en": "Nunia",
+    "or": "ଣୁନିଅ"
+  },
+  {
+    "en": "Nurpur",
+    "or": "ଣୁର୍ପୁର୍"
+  },
+  {
+    "en": "Odanga",
+    "or": "Oଦନ୍ଗ"
+  },
+  {
+    "en": "Ogalpur",
+    "or": "Oଗଲ୍ପୁର୍"
+  },
+  {
+    "en": "Ohabpura",
+    "or": "Oହବ୍ପୁର"
+  },
+  {
+    "en": "Ola",
+    "or": "Oଲ"
+  },
+  {
+    "en": "Olaga",
+    "or": "Oଲଗ"
+  },
+  {
+    "en": "Olagara",
+    "or": "Oଲଗର"
+  },
+  {
+    "en": "Olam",
+    "or": "Oଲମ୍"
+  },
+  {
+    "en": "Olang",
+    "or": "Oଲନ୍ଗ୍"
+  },
+  {
+    "en": "Oldanga",
+    "or": "Oଲ୍ଦନ୍ଗ"
+  },
+  {
+    "en": "Orada",
+    "or": "Oରଦ"
+  },
+  {
+    "en": "Orali",
+    "or": "Oରଲି"
+  },
+  {
+    "en": "Oramal",
+    "or": "Oରମଲ୍"
+  },
+  {
+    "en": "Orasahi",
+    "or": "Oରସହି"
+  },
+  {
+    "en": "Pachhalo",
+    "or": "Pଅଛଲୋ"
+  },
+  {
+    "en": "Pachhatira",
+    "or": "Pଅଛତିର"
+  },
+  {
+    "en": "Padajhara",
+    "or": "Pଅଦଝର"
+  },
+  {
+    "en": "Padakana",
+    "or": "Pଅଦକନ"
+  },
+  {
+    "en": "Padhani",
+    "or": "Pଅଧନି"
+  },
+  {
+    "en": "Padhanpada",
+    "or": "Pଅଧନ୍ପଦ"
+  },
+  {
+    "en": "Padhisahi",
+    "or": "Pଅଧିସହି"
+  },
+  {
+    "en": "Padhuan",
+    "or": "Pଅଧୁଅନ୍"
+  },
+  {
+    "en": "Padi",
+    "or": "Pଅଦି"
+  },
+  {
+    "en": "Padiapada",
+    "or": "Pଅଦିଅପଦ"
+  },
+  {
+    "en": "Padinarayanpur",
+    "or": "Pଅଦିନରଯନ୍ପୁର୍"
+  },
+  {
+    "en": "Padmapur",
+    "or": "Pଅଦ୍ମପୁର୍"
+  },
+  {
+    "en": "Pagar",
+    "or": "Pଅଗର୍"
+  },
+  {
+    "en": "Pahadapur",
+    "or": "Pଅହଦପୁର୍"
+  },
+  {
+    "en": "Pahadpur",
+    "or": "Pଅହଦ୍ପୁର୍"
+  },
+  {
+    "en": "Pahana",
+    "or": "Pଅହନ"
+  },
+  {
+    "en": "Pahimahura",
+    "or": "Pଅହିମହୁର"
+  },
+  {
+    "en": "Paikarapur",
+    "or": "Pଐକରପୁର୍"
+  },
+  {
+    "en": "Paikasahi",
+    "or": "Pଐକସହି"
+  },
+  {
+    "en": "Palasa",
+    "or": "Pଅଲସ"
+  },
+  {
+    "en": "Palasagadia",
+    "or": "Pଅଲସଗଦିଅ"
+  },
+  {
+    "en": "Palasahi",
+    "or": "Pଅଲସହି"
+  },
+  {
+    "en": "Palasapur",
+    "or": "Pଅଲସପୁର୍"
+  },
+  {
+    "en": "Palasinga",
+    "or": "Pଅଲସିନ୍ଗ"
+  },
+  {
+    "en": "Palatpur",
+    "or": "Pଅଲତ୍ପୁର୍"
+  },
+  {
+    "en": "Paliabindha",
+    "or": "Pଅଲିଅବିନ୍ଧ"
+  },
+  {
+    "en": "Palkiri",
+    "or": "Pଅଲ୍କିରି"
+  },
+  {
+    "en": "Palli",
+    "or": "Pଅଲ୍ଲି"
+  },
+  {
+    "en": "Panasa",
+    "or": "Pଅନସ"
+  },
+  {
+    "en": "Panasapada",
+    "or": "Pଅନସପଦ"
+  },
+  {
+    "en": "Panchapada",
+    "or": "Pଅନ୍ଚପଦ"
+  },
+  {
+    "en": "Panchutikiri",
+    "or": "Pଅନ୍ଚୁତିକିରି"
+  },
+  {
+    "en": "Pandado",
+    "or": "Pଅନ୍ଦଦୋ"
+  },
+  {
+    "en": "Panduapat",
+    "or": "Pଅନ୍ଦୁଅପତ୍"
+  },
+  {
+    "en": "Pangata",
+    "or": "Pଅନ୍ଗତ"
+  },
+  {
+    "en": "Pangirasasanparadihi",
+    "or": "Pଅନ୍ଗିରସସନ୍ପରଦିହି"
+  },
+  {
+    "en": "Panguda",
+    "or": "Pଅନ୍ଗୁଦ"
+  },
+  {
+    "en": "Panibhandar",
+    "or": "Pଅନିଭନ୍ଦର୍"
+  },
+  {
+    "en": "Panichatra",
+    "or": "Pଅନିଚତ୍ର"
+  },
+  {
+    "en": "Panpadi",
+    "or": "Pଅନ୍ପଦି"
+  },
+  {
+    "en": "Panpur",
+    "or": "Pଅନ୍ପୁର୍"
+  },
+  {
+    "en": "Parabandha",
+    "or": "Pଅରବନ୍ଧ"
+  },
+  {
+    "en": "Paramanandapur",
+    "or": "Pଅରମନନ୍ଦପୁର୍"
+  },
+  {
+    "en": "Parbati",
+    "or": "Pଅର୍ବତି"
+  },
+  {
+    "en": "Paribindha Marpur",
+    "or": "Pଅରିବିନ୍ଧ ଂଅର୍ପୁର୍"
+  },
+  {
+    "en": "Paribindharasalpur",
+    "or": "Pଅରିବିନ୍ଧରସଲ୍ପୁର୍"
+  },
+  {
+    "en": "Patakana",
+    "or": "Pଅତକନ"
+  },
+  {
+    "en": "Patalasing",
+    "or": "Pଅତଲସିନ୍ଗ୍"
+  },
+  {
+    "en": "Patpur",
+    "or": "Pଅତ୍ପୁର୍"
+  },
+  {
+    "en": "Patrisahi",
+    "or": "Pଅତ୍ରିସହି"
+  },
+  {
+    "en": "Patuli",
+    "or": "Pଅତୁଲି"
+  },
+  {
+    "en": "Paturibindha",
+    "or": "Pଅତୁରିବିନ୍ଧ"
+  },
+  {
+    "en": "Pharsibandha",
+    "or": "Pହର୍ସିବନ୍ଧ"
+  },
+  {
+    "en": "Phatepur",
+    "or": "Pହତେପୁର୍"
+  },
+  {
+    "en": "Phatepura",
+    "or": "Pହତେପୁର"
+  },
+  {
+    "en": "Pirijipur",
+    "or": "Pଇରିଜିପୁର୍"
+  },
+  {
+    "en": "Piripur",
+    "or": "Pଇରିପୁର୍"
+  },
+  {
+    "en": "Piteipur",
+    "or": "Pଇତେଇପୁର୍"
+  },
+  {
+    "en": "Pithiasenda",
+    "or": "Pଇଥିଅସେନ୍ଦ"
+  },
+  {
+    "en": "Podapatna",
+    "or": "Pଓଦପତ୍ନ"
+  },
+  {
+    "en": "Pokharia",
+    "or": "Pଓଖରିଅ"
+  },
+  {
+    "en": "Pokharisahi",
+    "or": "Pଓଖରିସହି"
+  },
+  {
+    "en": "Porapara",
+    "or": "Pଓରପର"
+  },
+  {
+    "en": "Pradyutanagar",
+    "or": "Pରଦ୍ଯୁତନଗର୍"
+  },
+  {
+    "en": "Pratappur",
+    "or": "Pରତପ୍ପୁର୍"
+  },
+  {
+    "en": "Purastampur",
+    "or": "Pଉରସ୍ତମ୍ପୁର୍"
+  },
+  {
+    "en": "Purastampur-II",
+    "or": "Pଉରସ୍ତମ୍ପୁର୍-ଈଈ"
+  },
+  {
+    "en": "Puripada",
+    "or": "Pଉରିପଦ"
+  },
+  {
+    "en": "Purnaprasad",
+    "or": "Pଉର୍ନପ୍ରସଦ୍"
+  },
+  {
+    "en": "Purusandha",
+    "or": "Pଉରୁସନ୍ଧ"
+  },
+  {
+    "en": "Purusottam Pur",
+    "or": "Pଉରୁସୋତ୍ତମ୍ Pଉର୍"
+  },
+  {
+    "en": "Purusottampur",
+    "or": "Pଉରୁସୋତ୍ତମ୍ପୁର୍"
+  },
+  {
+    "en": "Purusottampurbandha",
+    "or": "Pଉରୁସୋତ୍ତମ୍ପୁର୍ବନ୍ଧ"
+  },
+  {
+    "en": "Purusottompur",
+    "or": "Pଉରୁସୋତ୍ତୋମ୍ପୁର୍"
+  },
+  {
+    "en": "Rabindranagar",
+    "or": "ର଼ବିନ୍ଦ୍ରନଗର୍"
+  },
+  {
+    "en": "Radhaballavpur",
+    "or": "ର଼ଧବଲ୍ଲଵ୍ପୁର୍"
+  },
+  {
+    "en": "Radhamohanpur",
+    "or": "ର଼ଧମୋହନ୍ପୁର୍"
+  },
+  {
+    "en": "Radhanagar",
+    "or": "ର଼ଧନଗର୍"
+  },
+  {
+    "en": "Radhang",
+    "or": "ର଼ଧନ୍ଗ୍"
+  },
+  {
+    "en": "Radho",
+    "or": "ର଼ଧୋ"
+  },
+  {
+    "en": "Raghunathpur",
+    "or": "ର଼ଘୁନଥ୍ପୁର୍"
+  },
+  {
+    "en": "Raghupatibindha",
+    "or": "ର଼ଘୁପତିବିନ୍ଧ"
+  },
+  {
+    "en": "Rahanian",
+    "or": "ର଼ହନିଅନ୍"
+  },
+  {
+    "en": "Rahimpur",
+    "or": "ର଼ହିମ୍ପୁର୍"
+  },
+  {
+    "en": "Raintira",
+    "or": "ର଼ୈନ୍ତିର"
+  },
+  {
+    "en": "Raipur",
+    "or": "ର଼ୈପୁର୍"
+  },
+  {
+    "en": "Rajagurupur",
+    "or": "ର଼ଜଗୁରୁପୁର୍"
+  },
+  {
+    "en": "Rajarajeswarpalli",
+    "or": "ର଼ଜରଜେସ୍ଵର୍ପଲ୍ଲି"
+  },
+  {
+    "en": "Rajendrapali",
+    "or": "ର଼ଜେନ୍ଦ୍ରପଲି"
+  },
+  {
+    "en": "Rajendrapur",
+    "or": "ର଼ଜେନ୍ଦ୍ରପୁର୍"
+  },
+  {
+    "en": "Rajgharpokhari",
+    "or": "ର଼ଜ୍ଘର୍ପୋଖରି"
+  },
+  {
+    "en": "Rajnagar",
+    "or": "ର଼ଜ୍ନଗର୍"
+  },
+  {
+    "en": "Rajnagarmangalpur",
+    "or": "ର଼ଜ୍ନଗର୍ମନ୍ଗଲ୍ପୁର୍"
+  },
+  {
+    "en": "Rajpur",
+    "or": "ର଼ଜ୍ପୁର୍"
+  },
+  {
+    "en": "Rajualibindha",
+    "or": "ର଼ଜୁଅଲିବିନ୍ଧ"
+  },
+  {
+    "en": "Ramabindha",
+    "or": "ର଼ମବିନ୍ଧ"
+  },
+  {
+    "en": "Ramachandrapur",
+    "or": "ର଼ମଚନ୍ଦ୍ରପୁର୍"
+  },
+  {
+    "en": "Ramakrushunapur",
+    "or": "ର଼ମକ୍ରୁଶୁନପୁର୍"
+  },
+  {
+    "en": "Ramapur",
+    "or": "ର଼ମପୁର୍"
+  },
+  {
+    "en": "Rambhila",
+    "or": "ର଼ମ୍ଭିଲ"
+  },
+  {
+    "en": "Ramchandrapur",
+    "or": "ର଼ମ୍ଚନ୍ଦ୍ରପୁର୍"
+  },
+  {
+    "en": "Rameswarpur",
+    "or": "ର଼ମେସ୍ଵର୍ପୁର୍"
+  },
+  {
+    "en": "Rampur",
+    "or": "ର଼ମ୍ପୁର୍"
+  },
+  {
+    "en": "Randia",
+    "or": "ର଼ନ୍ଦିଅ"
+  },
+  {
+    "en": "Rangarajapur",
+    "or": "ର଼ନ୍ଗରଜପୁର୍"
+  },
+  {
+    "en": "Ranipada",
+    "or": "ର଼ନିପଦ"
+  },
+  {
+    "en": "Ranipur",
+    "or": "ର଼ନିପୁର୍"
+  },
+  {
+    "en": "Ranj",
+    "or": "ର଼ନ୍ଜ୍"
+  },
+  {
+    "en": "Ranjit",
+    "or": "ର଼ନ୍ଜିତ୍"
+  },
+  {
+    "en": "Ratanga",
+    "or": "ର଼ତନ୍ଗ"
+  },
+  {
+    "en": "Ratanpur",
+    "or": "ର଼ତନ୍ପୁର୍"
+  },
+  {
+    "en": "Rauturapur",
+    "or": "ର଼ୌତୁରପୁର୍"
+  },
+  {
+    "en": "Rebo",
+    "or": "ର଼େବୋ"
+  },
+  {
+    "en": "Routaragadia",
+    "or": "ର଼ୋଉତରଗଦିଅ"
+  },
+  {
+    "en": "Routarapur",
+    "or": "ର଼ୋଉତରପୁର୍"
+  },
+  {
+    "en": "Routragadiapatana",
+    "or": "ର଼ୋଉତ୍ରଗଦିଅପତନ"
+  },
+  {
+    "en": "Rukunadeipur",
+    "or": "ର଼ୁକୁନଦେଇପୁର୍"
+  },
+  {
+    "en": "Sabarang",
+    "or": "ଷବରନ୍ଗ୍"
+  },
+  {
+    "en": "Sabitrisarai",
+    "or": "ଷବିତ୍ରିସରୈ"
+  },
+  {
+    "en": "Sadanandapur",
+    "or": "ଷଦନନ୍ଦପୁର୍"
+  },
+  {
+    "en": "Sadarbalia",
+    "or": "ଷଦର୍ବଲିଅ"
+  },
+  {
+    "en": "Sadeipada",
+    "or": "ଷଦେଇପଦ"
+  },
+  {
+    "en": "Saentapanijharia",
+    "or": "ଷଏନ୍ତପନିଝରିଅ"
+  },
+  {
+    "en": "Sahabajpur",
+    "or": "ଷହବଜ୍ପୁର୍"
+  },
+  {
+    "en": "Sahadagadia",
+    "or": "ଷହଦଗଦିଅ"
+  },
+  {
+    "en": "Sahadapalli",
+    "or": "ଷହଦପଲ୍ଲି"
+  },
+  {
+    "en": "Sahapur",
+    "or": "ଷହପୁର୍"
+  },
+  {
+    "en": "Sahara",
+    "or": "ଷହର"
+  },
+  {
+    "en": "Sahaspur",
+    "or": "ଷହସ୍ପୁର୍"
+  },
+  {
+    "en": "Sahumadhagadia",
+    "or": "ଷହୁମଧଗଦିଅ"
+  },
+  {
+    "en": "Sahupada",
+    "or": "ଷହୁପଦ"
+  },
+  {
+    "en": "Saidabad",
+    "or": "ଷୈଦବଦ୍"
+  },
+  {
+    "en": "Sailendrapalli",
+    "or": "ଷୈଲେନ୍ଦ୍ରପଲ୍ଲି"
+  },
+  {
+    "en": "Sainta",
+    "or": "ଷୈନ୍ତ"
+  },
+  {
+    "en": "Salamagaria",
+    "or": "ଷଲମଗରିଅ"
+  },
+  {
+    "en": "Salampur",
+    "or": "ଷଲମ୍ପୁର୍"
+  },
+  {
+    "en": "Salkania",
+    "or": "ଷଲ୍କନିଅ"
+  },
+  {
+    "en": "Samantaraipur",
+    "or": "ଷମନ୍ତରୈପୁର୍"
+  },
+  {
+    "en": "Samaraipur",
+    "or": "ଷମରୈପୁର୍"
+  },
+  {
+    "en": "Samdaspur",
+    "or": "ଷମ୍ଦସ୍ପୁର୍"
+  },
+  {
+    "en": "Samia",
+    "or": "ଷମିଅ"
+  },
+  {
+    "en": "Samian",
+    "or": "ଷମିଅନ୍"
+  },
+  {
+    "en": "Sampatia",
+    "or": "ଷମ୍ପତିଅ"
+  },
+  {
+    "en": "Sampoi",
+    "or": "ଷମ୍ପୋଇ"
+  },
+  {
+    "en": "Samsamadaulatpur",
+    "or": "ଷମ୍ସମଦୌଲତ୍ପୁର୍"
+  },
+  {
+    "en": "Sanabanasta",
+    "or": "ଷନବନସ୍ତ"
+  },
+  {
+    "en": "Sanabankamuhan",
+    "or": "ଷନବନ୍କମୁହନ୍"
+  },
+  {
+    "en": "Sanachandrabhanupur",
+    "or": "ଷନଚନ୍ଦ୍ରଭନୁପୁର୍"
+  },
+  {
+    "en": "Sanahabelisahi",
+    "or": "ଷନହବେଲିସହି"
+  },
+  {
+    "en": "Sanaharipur",
+    "or": "ଷନହରିପୁର୍"
+  },
+  {
+    "en": "Sanaitagotha",
+    "or": "ଷନୈତଗୋଥ"
+  },
+  {
+    "en": "Sananahunipal",
+    "or": "ଷନନହୁନିପଲ୍"
+  },
+  {
+    "en": "Sanaostia",
+    "or": "ଷନଓସ୍ତିଅ"
+  },
+  {
+    "en": "Sanapanki",
+    "or": "ଷନପନ୍କି"
+  },
+  {
+    "en": "Sanapimpala",
+    "or": "ଷନପିମ୍ପଲ"
+  },
+  {
+    "en": "Sanasamukavedi",
+    "or": "ଷନସମୁକଵେଦି"
+  },
+  {
+    "en": "Sanasandado",
+    "or": "ଷନସନ୍ଦଦୋ"
+  },
+  {
+    "en": "Sanasingpur",
+    "or": "ଷନସିନ୍ଗ୍ପୁର୍"
+  },
+  {
+    "en": "Sanatilanchi",
+    "or": "ଷନତିଲନ୍ଚି"
+  },
+  {
+    "en": "Sanbarchhikayan",
+    "or": "ଷନ୍ବର୍ଛିକଯନ୍"
+  },
+  {
+    "en": "Sandakpur",
+    "or": "ଷନ୍ଦକ୍ପୁର୍"
+  },
+  {
+    "en": "Sangrampur",
+    "or": "ଷନ୍ଗ୍ରମ୍ପୁର୍"
+  },
+  {
+    "en": "Sankarpur",
+    "or": "ଷନ୍କର୍ପୁର୍"
+  },
+  {
+    "en": "Sankhajori",
+    "or": "ଷନ୍ଖଜୋରି"
+  },
+  {
+    "en": "Sankharu",
+    "or": "ଷନ୍ଖରୁ"
+  },
+  {
+    "en": "Sankhula",
+    "or": "ଷନ୍ଖୁଲ"
+  },
+  {
+    "en": "Sansasan",
+    "or": "ଷନ୍ସସନ୍"
+  },
+  {
+    "en": "Santara",
+    "or": "ଷନ୍ତର"
+  },
+  {
+    "en": "Santarapur",
+    "or": "ଷନ୍ତରପୁର୍"
+  },
+  {
+    "en": "Santhapura",
+    "or": "ଷନ୍ଥପୁର"
+  },
+  {
+    "en": "Sapanibindha",
+    "or": "ଷପନିବିନ୍ଧ"
+  },
+  {
+    "en": "Saradpur",
+    "or": "ଷରଦ୍ପୁର୍"
+  },
+  {
+    "en": "Saragadia",
+    "or": "ଷରଗଦିଅ"
+  },
+  {
+    "en": "Saralipatia",
+    "or": "ଷରଲିପତିଅ"
+  },
+  {
+    "en": "Saramanga",
+    "or": "ଷରମନ୍ଗ"
+  },
+  {
+    "en": "Saramara",
+    "or": "ଷରମର"
+  },
+  {
+    "en": "Saranaichhapur",
+    "or": "ଷରନୈଛପୁର୍"
+  },
+  {
+    "en": "Sarapada",
+    "or": "ଷରପଦ"
+  },
+  {
+    "en": "Sarapur",
+    "or": "ଷରପୁର୍"
+  },
+  {
+    "en": "Sarasada",
+    "or": "ଷରସଦ"
+  },
+  {
+    "en": "Sarasatia",
+    "or": "ଷରସତିଅ"
+  },
+  {
+    "en": "Saraswati",
+    "or": "ଷରସ୍ଵତି"
+  },
+  {
+    "en": "Saratprasad",
+    "or": "ଷରତ୍ପ୍ରସଦ୍"
+  },
+  {
+    "en": "Sareichudakuti",
+    "or": "ଷରେଇଚୁଦକୁତି"
+  },
+  {
+    "en": "Sarifpur",
+    "or": "ଷରିଫ଼୍ପୁର୍"
+  },
+  {
+    "en": "Saripal",
+    "or": "ଷରିପଲ୍"
+  },
+  {
+    "en": "Saro",
+    "or": "ଷରୋ"
+  },
+  {
+    "en": "Sasan",
+    "or": "ଷସନ୍"
+  },
+  {
+    "en": "Sasankhas",
+    "or": "ଷସନ୍ଖସ୍"
+  },
+  {
+    "en": "Sasikadeipur",
+    "or": "ଷସିକଦେଇପୁର୍"
+  },
+  {
+    "en": "Sasubhuasuni",
+    "or": "ଷସୁଭୁଅସୁନି"
+  },
+  {
+    "en": "Sathagan",
+    "or": "ଷଥଗନ୍"
+  },
+  {
+    "en": "Sathatira",
+    "or": "ଷଥତିର"
+  },
+  {
+    "en": "Sathibankuda",
+    "or": "ଷଥିବନ୍କୁଦ"
+  },
+  {
+    "en": "Satibati",
+    "or": "ଷତିବତି"
+  },
+  {
+    "en": "Satiuti",
+    "or": "ଷତିଉତି"
+  },
+  {
+    "en": "Satsola",
+    "or": "ଷତ୍ସୋଲ"
+  },
+  {
+    "en": "Saya",
+    "or": "ଷଯ"
+  },
+  {
+    "en": "Sayadjafar",
+    "or": "ଷଯଦ୍ଜଫ଼ର୍"
+  },
+  {
+    "en": "Senbad",
+    "or": "ଷେନ୍ବଦ୍"
+  },
+  {
+    "en": "Sendatira",
+    "or": "ଷେନ୍ଦତିର"
+  },
+  {
+    "en": "Sendhagara",
+    "or": "ଷେନ୍ଧଗର"
+  },
+  {
+    "en": "Sendhagarha",
+    "or": "ଷେନ୍ଧଗର୍ହ"
+  },
+  {
+    "en": "Serapur",
+    "or": "ଷେରପୁର୍"
+  },
+  {
+    "en": "Serpur",
+    "or": "ଷେର୍ପୁର୍"
+  },
+  {
+    "en": "Shortt's Island",
+    "or": "ଷୋର୍ତ୍ତ୍'ସ୍ ଈସ୍ଲନ୍ଦ୍"
+  },
+  {
+    "en": "Shyamsundarpur",
+    "or": "ଷ୍ଯମ୍ସୁନ୍ଦର୍ପୁର୍"
+  },
+  {
+    "en": "Sialia",
+    "or": "ଷିଅଲିଅ"
+  },
+  {
+    "en": "Sibabindha",
+    "or": "ଷିବବିନ୍ଧ"
+  },
+  {
+    "en": "Sibapur",
+    "or": "ଷିବପୁର୍"
+  },
+  {
+    "en": "Silandi",
+    "or": "ଷିଲନ୍ଦି"
+  },
+  {
+    "en": "Similia",
+    "or": "ଷିମିଲିଅ"
+  },
+  {
+    "en": "Sindol",
+    "or": "ଷିନ୍ଦୋଲ୍"
+  },
+  {
+    "en": "Singara",
+    "or": "ଷିନ୍ଗର"
+  },
+  {
+    "en": "Singiti",
+    "or": "ଷିନ୍ଗିତି"
+  },
+  {
+    "en": "Sirapur",
+    "or": "ଷିରପୁର୍"
+  },
+  {
+    "en": "Sitalpur",
+    "or": "ଷିତଲ୍ପୁର୍"
+  },
+  {
+    "en": "Small Wheeler",
+    "or": "ଷ୍ମଲ୍ଲ୍ Wହୀଲେର୍"
+  },
+  {
+    "en": "Sodha",
+    "or": "ଷୋଧ"
+  },
+  {
+    "en": "Sohara",
+    "or": "ଷୋହର"
+  },
+  {
+    "en": "Solagan",
+    "or": "ଷୋଲଗନ୍"
+  },
+  {
+    "en": "Solampur",
+    "or": "ଷୋଲମ୍ପୁର୍"
+  },
+  {
+    "en": "Solapur",
+    "or": "ଷୋଲପୁର୍"
+  },
+  {
+    "en": "Sorisadihi",
+    "or": "ଷୋରିସଦିହି"
+  },
+  {
+    "en": "Sribachhapur",
+    "or": "ଷ୍ରିବଛପୁର୍"
+  },
+  {
+    "en": "Sribantapur",
+    "or": "ଷ୍ରିବନ୍ତପୁର୍"
+  },
+  {
+    "en": "Sriganga",
+    "or": "ଷ୍ରିଗନ୍ଗ"
+  },
+  {
+    "en": "Sriramgaria",
+    "or": "ଷ୍ରିରମ୍ଗରିଅ"
+  },
+  {
+    "en": "Srirampur",
+    "or": "ଷ୍ରିରମ୍ପୁର୍"
+  },
+  {
+    "en": "Suan",
+    "or": "ଷୁଅନ୍"
+  },
+  {
+    "en": "Suanpada",
+    "or": "ଷୁଅନ୍ପଦ"
+  },
+  {
+    "en": "Subhadia",
+    "or": "ଷୁଭଦିଅ"
+  },
+  {
+    "en": "Sudarsanpur",
+    "or": "ଷୁଦର୍ସନ୍ପୁର୍"
+  },
+  {
+    "en": "Sugo",
+    "or": "ଷୁଗୋ"
+  },
+  {
+    "en": "Sugopatana",
+    "or": "ଷୁଗୋପତନ"
+  },
+  {
+    "en": "Sujansinghpur",
+    "or": "ଷୁଜନ୍ସିନ୍ଘ୍ପୁର୍"
+  },
+  {
+    "en": "Sukadebhosen",
+    "or": "ଷୁକଦେଭୋସେନ୍"
+  },
+  {
+    "en": "Sukadebpur",
+    "or": "ଷୁକଦେବ୍ପୁର୍"
+  },
+  {
+    "en": "Sukunalia",
+    "or": "ଷୁକୁନଲିଅ"
+  },
+  {
+    "en": "Sunagadia",
+    "or": "ଷୁନଗଦିଅ"
+  },
+  {
+    "en": "Sunaripokhari",
+    "or": "ଷୁନରିପୋଖରି"
+  },
+  {
+    "en": "Sundarpur",
+    "or": "ଷୁନ୍ଦର୍ପୁର୍"
+  },
+  {
+    "en": "Surajapur",
+    "or": "ଷୁରଜପୁର୍"
+  },
+  {
+    "en": "Surubana",
+    "or": "ଷୁରୁବନ"
+  },
+  {
+    "en": "Susiladeipur",
+    "or": "ଷୁସିଲଦେଇପୁର୍"
+  },
+  {
+    "en": "Susua",
+    "or": "ଷୁସୁଅ"
+  },
+  {
+    "en": "Swamipatana",
+    "or": "ଷ୍ଵମିପତନ"
+  },
+  {
+    "en": "Tagira",
+    "or": "ଟଗିର"
+  },
+  {
+    "en": "Taiguna",
+    "or": "ଟୈଗୁନ"
+  },
+  {
+    "en": "Tajipur",
+    "or": "ଟଜିପୁର୍"
+  },
+  {
+    "en": "Takapada (Talpada)",
+    "or": "ଟକପଦ (ଟଲ୍ପଦ)"
+  },
+  {
+    "en": "Talabandha",
+    "or": "ଟଲବନ୍ଧ"
+  },
+  {
+    "en": "Talabank",
+    "or": "ଟଲବନ୍କ୍"
+  },
+  {
+    "en": "Taladapa",
+    "or": "ଟଲଦପ"
+  },
+  {
+    "en": "Taladumuka",
+    "or": "ଟଲଦୁମୁକ"
+  },
+  {
+    "en": "Talagop",
+    "or": "ଟଲଗୋପ୍"
+  },
+  {
+    "en": "Talagopbindha",
+    "or": "ଟଲଗୋପ୍ବିନ୍ଧ"
+  },
+  {
+    "en": "Talakanpada",
+    "or": "ଟଲକନ୍ପଦ"
+  },
+  {
+    "en": "Talanga",
+    "or": "ଟଲନ୍ଗ"
+  },
+  {
+    "en": "Talapada",
+    "or": "ଟଲପଦ"
+  },
+  {
+    "en": "Talapada Samil Chakaichhapur",
+    "or": "ଟଲପଦ ଷମିଲ୍ ଛକୈଛପୁର୍"
+  },
+  {
+    "en": "Talasitha",
+    "or": "ଟଲସିଥ"
+  },
+  {
+    "en": "Tambakhandi",
+    "or": "ଟମ୍ବଖନ୍ଦି"
+  },
+  {
+    "en": "Tampala",
+    "or": "ଟମ୍ପଲ"
+  },
+  {
+    "en": "Tankuni",
+    "or": "ଟନ୍କୁନି"
+  },
+  {
+    "en": "Tarachandbindha",
+    "or": "ଟରଚନ୍ଦ୍ବିନ୍ଧ"
+  },
+  {
+    "en": "Tarafraipur",
+    "or": "ଟରଫ଼୍ରୈପୁର୍"
+  },
+  {
+    "en": "Taragana",
+    "or": "ଟରଗନ"
+  },
+  {
+    "en": "Tarago",
+    "or": "ଟରଗୋ"
+  },
+  {
+    "en": "Telipadi",
+    "or": "ଟେଲିପଦି"
+  },
+  {
+    "en": "Telnati",
+    "or": "ଟେଲ୍ନତି"
+  },
+  {
+    "en": "Tentulia",
+    "or": "ଟେନ୍ତୁଲିଅ"
+  },
+  {
+    "en": "Tentuliadia",
+    "or": "ଟେନ୍ତୁଲିଅଦିଅ"
+  },
+  {
+    "en": "Tentulida",
+    "or": "ଟେନ୍ତୁଲିଦ"
+  },
+  {
+    "en": "Tentulidadian",
+    "or": "ଟେନ୍ତୁଲିଦଦିଅନ୍"
+  },
+  {
+    "en": "Tentulidihi",
+    "or": "ଟେନ୍ତୁଲିଦିହି"
+  },
+  {
+    "en": "Tentuligan",
+    "or": "ଟେନ୍ତୁଲିଗନ୍"
+  },
+  {
+    "en": "Tentuligaria",
+    "or": "ଟେନ୍ତୁଲିଗରିଅ"
+  },
+  {
+    "en": "Tentulipokhari",
+    "or": "ଟେନ୍ତୁଲିପୋଖରି"
+  },
+  {
+    "en": "Tesinga",
+    "or": "ଟେସିନ୍ଗ"
+  },
+  {
+    "en": "Thaila",
+    "or": "ଠୈଲ"
+  },
+  {
+    "en": "Thokara",
+    "or": "ଠୋକର"
+  },
+  {
+    "en": "Thuruda",
+    "or": "ଠୁରୁଦ"
+  },
+  {
+    "en": "Tigiria",
+    "or": "ଟିଗିରିଅ"
+  },
+  {
+    "en": "Tihidi (p)",
+    "or": "ଟିହିଦି (ପ୍)"
+  },
+  {
+    "en": "Tihiri",
+    "or": "ଟିହିରି"
+  },
+  {
+    "en": "Tikara",
+    "or": "ଟିକର"
+  },
+  {
+    "en": "Tikira",
+    "or": "ଟିକିର"
+  },
+  {
+    "en": "Tilada",
+    "or": "ଟିଲଦ"
+  },
+  {
+    "en": "Tillo",
+    "or": "ଟିଲ୍ଲୋ"
+  },
+  {
+    "en": "Tisalpur",
+    "or": "ଟିସଲ୍ପୁର୍"
+  },
+  {
+    "en": "Torabantia",
+    "or": "ଟୋରବନ୍ତିଅ"
+  },
+  {
+    "en": "Toranga",
+    "or": "ଟୋରନ୍ଗ"
+  },
+  {
+    "en": "Toranpada",
+    "or": "ଟୋରନ୍ପଦ"
+  },
+  {
+    "en": "Totapada",
+    "or": "ଟୋତପଦ"
+  },
+  {
+    "en": "Totasahi",
+    "or": "ଟୋତସହି"
+  },
+  {
+    "en": "Trikona",
+    "or": "ଟ୍ରିକୋନ"
+  },
+  {
+    "en": "Tubhi",
+    "or": "ଟୁଭି"
+  },
+  {
+    "en": "Tulamtula",
+    "or": "ଟୁଲମ୍ତୁଲ"
+  },
+  {
+    "en": "Tulapadi",
+    "or": "ଟୁଲପଦି"
+  },
+  {
+    "en": "Tulasibatia",
+    "or": "ଟୁଲସିବତିଅ"
+  },
+  {
+    "en": "Tulasipur",
+    "or": "ଟୁଲସିପୁର୍"
+  },
+  {
+    "en": "Tulipada",
+    "or": "ଟୁଲିପଦ"
+  },
+  {
+    "en": "Tunda",
+    "or": "ଟୁନ୍ଦ"
+  },
+  {
+    "en": "Uasahi",
+    "or": "ଊଅସହି"
+  },
+  {
+    "en": "Uhad",
+    "or": "ଊହଦ୍"
+  },
+  {
+    "en": "Ukura",
+    "or": "ଊକୁର"
+  },
+  {
+    "en": "Upardumuka",
+    "or": "ଊପର୍ଦୁମୁକ"
+  },
+  {
+    "en": "Urunia",
+    "or": "ଊରୁନିଅ"
+  },
+  {
+    "en": "Utakuda",
+    "or": "ଊତକୁଦ"
+  },
+  {
+    "en": "Uteipur",
+    "or": "ଊତେଇପୁର୍"
+  },
+  {
+    "en": "Uttarbad",
+    "or": "ଊତ୍ତର୍ବଦ୍"
+  },
+  {
+    "en": "Uttargadia",
+    "or": "ଊତ୍ତର୍ଗଦିଅ"
+  },
+  {
+    "en": "Uttarsahi",
+    "or": "ଊତ୍ତର୍ସହି"
+  },
+  {
+    "en": "kaligadi",
+    "or": "କଲିଗଦି"
+  },
+  {
+    "en": "patulia",
+    "or": "ପତୁଲିଅ"
+  }
+]
